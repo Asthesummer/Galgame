@@ -4,7 +4,8 @@
     "bf01a62c-c1e2-4044-97c8-cbd2ce8a86a5",
     "3b0a25a6-3308-4e74-8d42-b3b6d083c7db",
     "eefce51b-4e10-4871-9c2f-0adbf5cd4570",
-    "a9ac6fb0-da60-45d8-b8e9-417db4dac14a"
+    "a9ac6fb0-da60-45d8-b8e9-417db4dac14a",
+    "1ca47283-d29c-4eda-91e9-a6186b501879"
   ],
   "data": [
     {
@@ -2613,20 +2614,51 @@
     {
       "id": "458671d8-4c02-4584-a04d-3cb854a8c7fd",
       "vndbId": "v914",
-      "bgmId": "310047",
-      "updateDate": 1740067533.864,
+      "bgmId": "2722",
+      "updateDate": 1740067607.493,
       "alias": [
-        "吸血鬼：避世血族-绝唱",
+        "天鹅之歌",
         "SWAN SONG"
       ],
-      "description": "《吸血鬼：避世血族-绝唱》是一款叙事性RPG游戏，以备受追捧的角色扮演游戏为基础，由该游戏类型的专家开发。你在游戏中的每个选择都将决定三个主要角色和波士顿卡玛利拉的命运。\r\n\r\n●欢迎来到黑暗世界\r\n假使吸血鬼真实存在会怎么样？假使数千年来，这些嗜血的掠食者一直藏身于我们复杂的社会中，暗地里策划各种阴谋诡计，该怎么办？假使你变成了一个吸血鬼呢？\r\n在《Vampire: The Masquerade》中，你将扮演这种迷人的怪物，生活在真实与超自然之间的界线始终模糊不清的复杂世界里。\r\n\r\n●令人心跳加速的惊悚游戏\r\n\"天鹅\" 黑兹尔·艾弗森是波士顿卡玛利拉的新任公主。她是个外柔内刚的人，打算展示自己的力量，并尊重假面舞会：旨在确保人类永不知晓这些暗夜生灵存在的吸血鬼法律。但她的计划完全落空了。你必须顶着各种阴谋、谋杀和权力斗争的谣言，展开一场让波士顿陷入混乱的惊心动魄的调查，并暗中保护自己的流派。\r\n\r\n●扮演3个原创吸血鬼\r\n扮演3个一百多岁的吸血鬼。透过他们彼此交错的命运推进剧情发展，妥善处理他们的不同观点，并利用其角色总览，努力分清真相与谎言。每个角色都有自己的吸血鬼能力和纪律，你可以根据自己的偏好单独对其进行升级。\r\n你会选择恐吓、诱惑还是隐身？只要你能满足自己对鲜血的饥饿，一切由你做主。\r\n\r\n●影响后续剧情的游戏玩法\r\n《Swansong》采用独一无二的游戏玩法，着重强调你在调查和与其他角色的社交互动中采取的行动所产生的后果。仔细分析每种情况，因为你的决定可能对主人公的生活和波士顿卡玛利拉的命运产生重大影响。",
-      "tags": [],
+      "description": "——那时候，人们经历了绝望的试炼。\r\n\r\n那个夜晚。\r\n到那时为止还毫无瓜葛的我们，突然被投进一只名为命运的沸腾大锅。\r\n标志着一年即将结束的12月24日，降诞祭前夕。\r\n飞舞的雪花覆盖了这座深山包围下的都市，白色圣诞节——\r\n\r\n祝福喜庆气氛洋溢的街道。\r\n渐渐地，日落西山，夜深人静，不久连餐厅和车站装饰的彩灯也开始沉睡。\r\n本应沉浸在幸福之中进入梦乡的大地，却突如其来地剧烈呻吟，于是平和的世界一改其貌。\r\n地面开裂，建筑物倒塌，黑暗中无数痛苦的悲鸣响彻云际。\r\n平稳的住宅街瞬间成为地狱绘景。\r\n一直以来过着单身生活的大学生尼子司，在这场混乱中奇迹般地生还。\r\n彷徨在化作废墟的街道中时与患有自闭症的少女八坂あろえ相遇，为寻找避难所两人结伴而行。\r\n\r\n行走在狂风肆虐，暴雪纷飞的街道，伴随踏足瓦砾的声响前进。\r\n司二人终于找到一处能抵挡风雪的建筑物。\r\n那是一所古旧的教会，司决定在这里暂时休息。\r\n\r\n和司同样在地震中失去家园的年轻人们，也因为同样的理由，集聚此地。\r\n于是，在这所风雪包围的教会，他们相遇了。",
+      "tags": [
+        "milktub",
+        "剧情作",
+        "Le.Chocolat",
+        "良作",
+        "黄油",
+        "剧情",
+        "生死观",
+        "NTR",
+        "濑户口廉也",
+        "视觉小说",
+        "川原誠",
+        "游戏",
+        "神作",
+        "ADV",
+        "汉化",
+        "蝇王",
+        "AVG",
+        "R18",
+        "烂户口",
+        "2005",
+        "GAL",
+        "PC",
+        "FlyingShine",
+        "死生観",
+        "狂气",
+        "致郁",
+        "灾难",
+        "人性",
+        "Galgame",
+        "瀬戸口廉也"
+      ],
       "playTimelines": [],
       "expectedPlayHours": 20,
       "lastPlay": 0,
       "createDate": 1740067533864,
-      "releaseDate": 1652918400000,
-      "rating": 1,
+      "releaseDate": 1122595200000,
+      "rating": 8.1,
       "developer": "FlyingShine",
       "images": [
         "https://t.vndb.org/sf/46/4146.jpg",
@@ -2642,24 +2674,1462 @@
       ],
       "links": [
         {
-          "url": "https://ja.wikipedia.org/wiki/SWAN_SONG_(ゲーム)",
-          "name": "jawiki"
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/SWAN_SONG_(ゲーム)"
         },
         {
           "url": "https://www.wikidata.org/wiki/Q11245224",
           "name": "wikidata"
         },
         {
-          "name": "igdb_game",
-          "url": "https://www.igdb.com/games/swan-song--1"
+          "url": "https://www.igdb.com/games/swan-song--1",
+          "name": "igdb_game"
         },
         {
-          "url": "https://lutris.net/games/swan-song--1",
+          "name": "lutris",
+          "url": "https://lutris.net/games/swan-song--1"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/33/26/2722_w40CX.jpg",
+      "title": "SWAN SONG"
+    },
+    {
+      "id": "52520506-5a7d-4433-9911-25db4f8cf677",
+      "vndbId": "v38",
+      "bgmId": "1143",
+      "updateDate": 1740067620.729,
+      "alias": [
+        "交响乐之雨",
+        "Symphonic Rain",
+        "シンフォニック＝レイン",
+        "Mưa Giao Hưởng",
+        "交響樂之雨"
+      ],
+      "description": "降雨永不停歇的城镇琵欧伯，\r\n是梦想成为音乐家的年轻人们所聚集的音乐之城。\r\n再过数月就要迎来毕业的主人公库里斯·霍尔顿，\r\n必须和负责歌唱的伙伴一起合奏原创曲目，作为符德鲁琴科的毕业制作。\r\n不过库里斯至今仍未兴起寻找伙伴的念头，\r\n只是不断度过着毫无干劲的每一天。\r\n每周一封的女友来信、搬来这座城镇时遇见的房内寄居客、\r\n以及身高只有14公分左右的小小音之妖精芙铃，就是他的世界中的一切了。\r\n\r\n雨——永不停歇的雨。\r\n\r\n跟着雨声击打出的节拍，奏响魔导乐器符德鲁琴的音色吧。\r\n当库里斯演奏出的音色与音之妖精芙铃的歌声相叠，\r\n响彻每个角落的时候，将会发生什么事呢？\r\n……那么，来演奏妖精之歌吧。",
+      "tags": [
+        "天使小夜曲",
+        "MUG",
+        "氛围作",
+        "治愈",
+        "叙诡",
+        "交響樂之雨",
+        "氛围",
+        "汉化",
+        "催泪",
+        "工画堂スタジオ",
+        "STEAM",
+        "ADV",
+        "音游",
+        "音乐",
+        "2004",
+        "笠原弘子",
+        "横版节奏",
+        "SR",
+        "西川真音",
+        "AVG",
+        "雨水",
+        "GAL",
+        "神作",
+        "PC",
+        "全年龄",
+        "中原麻衣",
+        "交响乐之雨",
+        "冈崎律子",
+        "工画堂",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 33,
+      "lastPlay": 0,
+      "createDate": 1740067620729,
+      "releaseDate": 1080259200000,
+      "rating": 8.5,
+      "developer": "Kuroneko-san Team",
+      "images": [
+        "https://t.vndb.org/sf/28/3328.jpg",
+        "https://t.vndb.org/sf/29/3329.jpg",
+        "https://t.vndb.org/sf/30/3330.jpg",
+        "https://t.vndb.org/sf/38/8938.jpg",
+        "https://t.vndb.org/sf/82/112382.jpg",
+        "https://t.vndb.org/sf/83/112383.jpg",
+        "https://t.vndb.org/sf/50/159250.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Symphonic_Rain",
+          "name": "enwiki"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/シンフォニック=レイン",
+          "name": "jawiki"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q909350"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/symphonic-rain"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/931934-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "url": "http://howlongtobeat.com/game.php?id=9529",
+          "name": "howlongtobeat"
+        },
+        {
+          "url": "https://www.igdb.com/games/symphonic-rain",
+          "name": "igdb_game"
+        },
+        {
+          "url": "https://www.pcgamingwiki.com/wiki/Symphonic_Rain",
+          "name": "pcgamingwiki"
+        },
+        {
+          "url": "https://lutris.net/games/symphonic-rain",
+          "name": "lutris"
+        },
+        {
+          "name": "wine",
+          "url": "https://appdb.winehq.org/appview.php?iAppId=5966"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/20/8e/1143_Z54Z6.jpg",
+      "title": "シンフォニック=レイン"
+    },
+    {
+      "id": "567b48ce-f9e2-4c94-b6a7-e1e4f2746e31",
+      "vndbId": "v7",
+      "bgmId": "232",
+      "updateDate": 1740067630.057,
+      "alias": [
+        "月姫"
+      ],
+      "description": "夏。海に近いちっぽけな町。青年は旅の途中だった。\r\n彼の道連れは、母親が残したちっぽけな人形。\r\n彼は手を触れずにその人形を動かすことができた。\r\n母親から受け継いだ『法術』と呼ばれる力。\r\n彼はそれを見世物にしてこれまで旅を続けていた。\r\nそして、この海辺の町で、青年はひとりの少女に出会った・・・。\r\n-----------------------------------------------------------------------------------------------\r\n《AIR》，是日本游戏制作公司Key继《Kanon》后，所出品的第二款恋爱游戏。因为故事感人度极高，在日本也有人称为“泣きゲー”（赚人热泪的游戏）。起初推出时是一只含有H成分的18X电脑游戏，后来推出了“全年龄向”（即适合一般玩家的，通常指没有H或暴力的游戏）的电脑游戏、Dreamcast、PlayStation 2以及PSP版本。亦被改编成为电视动画版和剧场版。",
+      "tags": [
+        "丘野塔也",
+        "亲情",
+        "凉元悠一",
+        "治愈",
+        "汉化",
+        "R18",
+        "神奈",
+        "魁",
+        "樋上いたる",
+        "游戏",
+        "涼元悠一",
+        "PSP",
+        "ADV",
+        "AVG",
+        "泪",
+        "2000",
+        "AIR～神在哭泣～",
+        "人生",
+        "GAL",
+        "PC",
+        "国歌",
+        "神作",
+        "观铃",
+        "泣きゲー",
+        "催泪",
+        "鸟之诗",
+        "air",
+        "Galgame",
+        "麻枝准",
+        "key"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 42,
+      "lastPlay": 0,
+      "createDate": 1740067630057,
+      "releaseDate": 968371200000,
+      "rating": 8.4,
+      "developer": "TYPE-MOON",
+      "images": [
+        "https://t.vndb.org/sf/59/259.jpg",
+        "https://t.vndb.org/sf/60/260.jpg",
+        "https://t.vndb.org/sf/96/2296.jpg",
+        "https://t.vndb.org/sf/97/2297.jpg",
+        "https://t.vndb.org/sf/98/2298.jpg",
+        "https://t.vndb.org/sf/99/2299.jpg",
+        "https://t.vndb.org/sf/00/2300.jpg",
+        "https://t.vndb.org/sf/01/2301.jpg",
+        "https://t.vndb.org/sf/02/2302.jpg",
+        "https://t.vndb.org/sf/71/8871.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tsukihime",
+          "name": "enwiki"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/月姫_(ゲーム)"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1193720"
+        },
+        {
+          "url": "https://www.mobygames.com/game/tsukihime",
+          "name": "mobygames"
+        },
+        {
+          "url": "https://www.animecharactersdatabase.com/source.php?id=216",
+          "name": "acdb_source"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=10689"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/tsukihime"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Tsukihime"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/tsukihime"
+        },
+        {
+          "name": "wine",
+          "url": "https://appdb.winehq.org/appview.php?iAppId=7379"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/be/83/232_wpE8G.jpg",
+      "title": "AIR"
+    },
+    {
+      "id": "cbac77c1-c95f-4067-8a62-d64dcc883996",
+      "vndbId": "v33",
+      "bgmId": "142",
+      "updateDate": 1740067637.646,
+      "alias": [
+        "Kanon"
+      ],
+      "description": "　  游戏标题画面《Kanon》最初的版本在1999年6月4日推出，为十八禁游戏。自发行十八禁版本后，2000年1月7日在个人电脑平台发行了全年龄版并在同年9月14日由日本 INTERCHANNEL-HOLON 公司（原NEC Interchannel）移植到 Dreamcast 平台，之后又在2002年2月28日发行了 PlayStation 2 移植版。2004年11月26日 Key 公司发行了整合全年龄版中新增的故事桥段及 CG 画面的十八禁 DVD-ROM 版“Kanon Standard Edition”。同年12月22日发行了 PlayStation 2 版的廉价版，当时CERO分级为适合12岁以上玩家（现在称为CERO“B”）。2005年1月28日 Key 公司发行了将个人电脑平台的全年龄版DVD化的“Kanon Standard Edition 全年龄对象版”。2007年将由日本 PROTOTYPE 公司发行 PlayStation Portable 移植版。\r\n　　游戏推出后，许多的爱好者给了被剧情感动落泪的绝佳评价，自此之后，在游戏中加入令人感伤感动的要素，通称“泣きゲー（催泪游戏）”类型的游戏开始流行，对此后这类文字冒险恋爱游戏带来了相当大的影响。\r\n　　由于游戏的成功，其后延伸到其他的媒体。2002年由东映动画改编为电视动画，因为饱受批评，之后又在2006年播出了由京都动画重新制作的版本。除了动画外，还发行了以游戏为原作的改编漫画及小说，更有另行描述原作不曾描述的桥段的话剧CD等作品。同时也激发了不少二次创作，除了漫画小说和改编音乐CD之外还有不少同人社团制作相关的同人游戏，例如《 Kanon RPG 》和 《Kanoso 》系列。《Kanon》 的角色也常出现在不是直接由原作游戏改编的作品中，例如格斗游戏《Eternal Fighter ZERO 》 和《 Glove on Fight》等。\r\n　　《Kanon》 以其在日本相对较高的知名度，在其他的国家也引起不少好日社群的兴趣，该游戏已有中文、韩文、英文的非官方翻译版本出现。",
+      "tags": [
+        "泣系",
+        "折户伸治",
+        "泣",
+        "R18",
+        "神作",
+        "冬",
+        "妹",
+        "折戸伸治",
+        "动漫",
+        "游戏",
+        "PSP",
+        "久弥直树",
+        "汉化",
+        "全年龄",
+        "AVG",
+        "仓田佐佑理",
+        "爱情",
+        "ADV",
+        "哭了",
+        "1999",
+        "GAL",
+        "PC",
+        "泣きゲー",
+        "樋上いたる",
+        "催泪",
+        "久弥直樹",
+        "Kanon",
+        "麻枝准",
+        "Galgame",
+        "key"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 31.3,
+      "lastPlay": 0,
+      "createDate": 1740067637646,
+      "releaseDate": 928454400000,
+      "rating": 7.8,
+      "developer": "Key",
+      "images": [
+        "https://t.vndb.org/sf/65/4265.jpg",
+        "https://t.vndb.org/sf/67/4267.jpg",
+        "https://t.vndb.org/sf/68/4268.jpg",
+        "https://t.vndb.org/sf/71/4271.jpg",
+        "https://t.vndb.org/sf/99/10799.jpg",
+        "https://t.vndb.org/sf/00/10800.jpg",
+        "https://t.vndb.org/sf/01/10801.jpg",
+        "https://t.vndb.org/sf/10/184610.jpg",
+        "https://t.vndb.org/sf/49/196749.jpg",
+        "https://t.vndb.org/sf/47/198647.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kanon_(video_game)",
+          "name": "enwiki"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/Kanon_(ゲーム)",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q682892",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.mobygames.com/game/kanon__",
+          "name": "mobygames"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/kanon"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/1011"
+        },
+        {
+          "url": "https://www.igdb.com/games/kanon",
+          "name": "igdb_game"
+        },
+        {
+          "url": "https://lutris.net/games/kanon",
+          "name": "lutris"
+        },
+        {
+          "url": "https://appdb.winehq.org/appview.php?iAppId=7705",
+          "name": "wine"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/a8/ba/142_llJLp.jpg",
+      "title": "Kanon"
+    },
+    {
+      "id": "a33ca7bf-5a88-4375-b5ec-44e6e3f6995d",
+      "vndbId": "v3079",
+      "bgmId": "84256",
+      "updateDate": 1740067646.864,
+      "alias": [
+        "库特wafter 改装版",
+        "クドわふたー",
+        "Kud Wafter"
+      ],
+      "description": "主人公「直枝理樹」は、恋人になった「能美クドリャフカ」と楽しい毎日を送っていた。\r\n夏休みが始まり「リトルバスターズ」の面々が帰省する中、２人はそれぞれの事情で学生寮に残っていたが、男子寮のリフォーム中に水道事故が起こり、男子寮が水浸しに！\r\nしばらくの間、男子は旧館の空き部屋に移ることになったが、出遅れた理樹は寝場所が無くなり、困り果てていたところ、\r\n「ルームメイトさん、いまも…募集中…なの、です…」\r\n\r\nクドからのおそるおそるの提案と、もと寮長「あーちゃん先輩」の無責任な後押し――\r\n\r\nこうして始まった秘密の同棲生活は、２人きりの蜜月に……なるかと思えば、どんどん始まる新たな出会い。\r\n新しい仲間たちと過ごす夏休みは、\r\n２人にとって忘れられない夏になる……！",
+      "tags": [
+        "2013年",
+        "2013",
+        "全年龄",
+        "AVG",
+        "key",
+        "霜月はるか",
+        "游戏",
+        "NS",
+        "PSP",
+        "2013年5月",
+        "PSV",
+        "清水準一",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 14,
+      "lastPlay": 0,
+      "createDate": 1740067646864,
+      "releaseDate": 1368057600000,
+      "rating": 7.2,
+      "developer": "Key",
+      "images": [
+        "https://t.vndb.org/sf/87/11587.jpg",
+        "https://t.vndb.org/sf/95/11595.jpg",
+        "https://t.vndb.org/sf/96/11596.jpg",
+        "https://t.vndb.org/sf/11/11611.jpg",
+        "https://t.vndb.org/sf/15/11615.jpg",
+        "https://t.vndb.org/sf/24/11624.jpg",
+        "https://t.vndb.org/sf/30/11630.jpg",
+        "https://t.vndb.org/sf/34/11634.jpg",
+        "https://t.vndb.org/sf/35/11635.jpg",
+        "https://t.vndb.org/sf/44/11644.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Kud_Wafter"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/クドわふたー",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q2985629",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.mobygames.com/game/kud-wafter",
+          "name": "mobygames"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/1027"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/58/e5/84256_IbYzv.jpg",
+      "title": "クドわふたー Converted Edition"
+    },
+    {
+      "id": "5a317576-5244-4ed0-9ec0-3a9eba09e9d0",
+      "bgmId": "845",
+      "updateDate": 1740067684.087,
+      "alias": [
+        "Little Busters! EX"
+      ],
+      "description": "那些，最痛苦的日子\r\n闷闷不乐的每一天\r\n在那样的我的面前，四名少年出现了，向我伸出了手\r\n「强敌出现了！需要你的力量！」\r\n他们这样说着，问了我的名字\r\n「…直枝理树」\r\n「好，走了，理树！」\r\n抓着我的手，拉着我般跑了出去\r\n「喂，你们是！？」\r\n一边为了不跌倒拼尽全力地跟着，一边这样问\r\n「我们吗？\r\n制裁罪恶的正义伙伴\r\n被人称为…LittleBusters」\r\n会心笑着，报上了名字\r\n\r\n敌人，是邻居家屋檐下建成的，大型的蜂巢\r\n确实是个强敌\r\n无数次被击败\r\n受挫的我们，块头最大的男子突然脱掉了上衣（为的是什么到现在也不知道），将佯攻用的蜂蜜涂满了皮肤，说道\r\n「之后就拜托了」 说着，竖起了大拇指，勇敢地冲入了敌阵\r\n理所当然的无数蜜蜂聚了过来接着剩下的其中一人用杀虫剂的喷口朝向那群蜜蜂，另一人在喷出口的正下方点燃了打火机\r\n「直人，不会忘记你的牺牲的！」\r\n同声音一起，从喷口射出了火焰，大个头孩子的身体嘭！的一声燃烧了起来，化做了火柱\r\n「哇啊啊啊——！我没拜托这种事啊啊啊——！！！」\r\n一边燃烧着一边冲出来的身影至今仍无法忘却\r\n紧接着，刚刚在后面没有事做的孩子一脚将燃烧着的男孩子踢倒在地\r\n并为了让他在地面上滚动而继续踢着的画面也很难忘（结果多亏了那个孩子火熄灭了，他因此获救了）\r\n\r\n这之后，消防车和救护车驶来变成了大骚动\r\n在学校被叫到了校长室叱责\r\n我因此得知了他们的名字\r\n也记得得知踢倒真人的是位女孩子时的惊诧\r\n这就是我们的相遇，同时也是那些祭典般喧闹的每一天的开始\r\n一直，和他们一起这样生活，我心中的伤痛、寂寞也在不知不觉间消失了\r\n只有快乐…\r\n这样的时间如果能一直下去就好了\r\n只祈求如此 ",
+      "tags": [
+        "na-ga",
+        "樋上いたる",
+        "伪娘",
+        "泣きゲー",
+        "樫田レオ",
+        "城桐央",
+        "校园",
+        "Little",
+        "R18",
+        "神作",
+        "ADV",
+        "棒球",
+        "汉化",
+        "都乃河勇人",
+        "Busters!",
+        "AVG",
+        "EX",
+        "2008",
+        "Refrainゲー",
+        "BLゲー(笑)",
+        "GAL",
+        "PC",
+        "泣くゲー",
+        "LB",
+        "催泪",
+        "LittleBusters!",
+        "友情",
+        "Galgame",
+        "麻枝准",
+        "key"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740067656392,
+      "releaseDate": 1216944000000,
+      "rating": 8.5,
+      "developer": "",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/b8/6e/845_u43XO.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/b8/6e/845_u43XO.jpg",
+      "title": "リトルバスターズ！エクスタシー"
+    },
+    {
+      "id": "7249ee9c-d5e5-4ab7-a9b2-57b3ba4d8c76",
+      "vndbId": "v751",
+      "bgmId": "4022",
+      "updateDate": 1740067756.052,
+      "alias": [
+        "Rewrite",
+        "Перезапись"
+      ],
+      "description": "绿化都市风祭。\r\n在这个文明和绿色共存的理想都市里居住着的天王寺瑚太朗和神戸小鳥、吉野晴彦等朋友们过着平凡的每一天。\r\n就在这平静的风祭市里、每年一次的喧嚣时期到来了。\r\n这就是将整个都市气氛烘托热烈的收获祭。 宛如迎接巨大的文化祭一般、瑚太朗开始了捕捉新闻线索的打工。\r\n风祭的未确认生物情报、原本只是超自然现象一般的流言，结果却逐渐被染上了一层真实的色彩。\r\n同时期、瑚太朗的身边也开始逐渐开始出现各种无法解释的现象。\r\n瑚太朗请求神秘研究会的部長千里朱音进行调查协助、而他的朋友们也被卷入了这场调查行动之中。\r\n这对瑚太朗来说、其实只是为了满足自己小小的冒险欲而已。\r\n和充满精力的伙伴们一起度过的话、那真是太好了。\r\n瑚太朗还没有注意到。那和谁都不曾知晓的“真实”的探求之路紧紧联系在一起。\r\n\r\n———能改写过来吗、她的命运。",
+      "tags": [
+        "游戏",
+        "战斗",
+        "罚抄",
+        "奇幻",
+        "樋上いたる",
+        "水月陵",
+        "田中罗密欧",
+        "猎奇预定",
+        "哲学",
+        "催泪",
+        "汉化",
+        "人类圣经",
+        "竜騎士07",
+        "ADV",
+        "神作",
+        "喜多村英梨",
+        "2011",
+        "全年龄",
+        "花泽香菜",
+        "AVG",
+        "斋藤千和",
+        "GAL",
+        "PC",
+        "都乃河勇人",
+        "麻枝准",
+        "龙骑士07",
+        "rewrite",
+        "Galgame",
+        "田中ロミオ",
+        "key"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 77.8,
+      "lastPlay": 0,
+      "createDate": 1740067696881,
+      "releaseDate": 1308873600000,
+      "rating": 8.6,
+      "developer": "Key",
+      "images": [
+        "https://t.vndb.org/sf/73/21073.jpg",
+        "https://t.vndb.org/sf/74/21074.jpg",
+        "https://t.vndb.org/sf/75/21075.jpg",
+        "https://t.vndb.org/sf/40/33640.jpg",
+        "https://t.vndb.org/sf/41/33641.jpg",
+        "https://t.vndb.org/sf/42/33642.jpg",
+        "https://t.vndb.org/sf/53/89753.jpg",
+        "https://t.vndb.org/sf/54/89754.jpg",
+        "https://t.vndb.org/sf/71/93371.jpg",
+        "https://t.vndb.org/sf/52/186552.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Rewrite_(video_game)"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/Rewrite_(ゲーム)",
+          "name": "jawiki"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q683324"
+        },
+        {
+          "url": "https://www.mobygames.com/game/rewrite",
+          "name": "mobygames"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/1028"
+        },
+        {
+          "url": "http://howlongtobeat.com/game.php?id=7783",
+          "name": "howlongtobeat"
+        },
+        {
+          "url": "https://appdb.winehq.org/appview.php?iAppId=15817",
+          "name": "wine"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/d5/ff/4022_yF2YV.jpg",
+      "title": "Rewrite"
+    },
+    {
+      "id": "062f69ee-7505-468e-9f40-7c55ad8212cf",
+      "vndbId": "v21644",
+      "bgmId": "227977",
+      "updateDate": 1740067767.752,
+      "alias": [
+        "Rewrite: Cradles Tale"
+      ],
+      "description": "アニメRewrite Blu-ray最終巻（9月27日発売）に特典として着いてくるＰＣゲーム「Cradles Tale」は、田中ロミオ氏による書き下ろしシナリオになっています。\r\nアニメの最終回のその後が描かれた、人類の可能性を信じる物語です。",
+      "tags": [
+        "8分",
+        "非18禁",
+        "2017-09",
+        "短篇（10h-）",
+        "已入实体",
+        "23.11.18",
+        "FD系",
+        "云通关",
+        "野中正幸",
+        "田中罗密欧",
+        "水月陵",
+        "游戏",
+        "AVG",
+        "暴力",
+        "篝利",
+        "短篇",
+        "樋上いたる",
+        "GAL",
+        "rewrite",
+        "ADV",
+        "2017",
+        "FD",
+        "罚抄",
+        "PC",
+        "老夫老妻",
+        "全年龄",
+        "后日谈",
+        "key",
+        "Galgame",
+        "田中ロミオ"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0.6,
+      "lastPlay": 0,
+      "createDate": 1740067767752,
+      "releaseDate": 1506470400000,
+      "rating": 7.2,
+      "developer": "Key",
+      "images": [
+        "https://t.vndb.org/sf/96/107196.jpg",
+        "https://t.vndb.org/sf/97/107197.jpg",
+        "https://t.vndb.org/sf/98/107198.jpg",
+        "https://t.vndb.org/sf/01/107201.jpg",
+        "https://t.vndb.org/sf/02/107202.jpg",
+        "https://t.vndb.org/sf/53/150653.jpg",
+        "https://t.vndb.org/sf/54/150654.jpg",
+        "https://t.vndb.org/sf/55/150655.jpg",
+        "https://t.vndb.org/sf/20/198220.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/6e/62/227977_V5K05.jpg",
+      "title": "Rewrite: Cradles Tale"
+    },
+    {
+      "id": "917e8889-82d2-4bd2-a813-2e4b26f86b2d",
+      "bgmId": "23559",
+      "updateDate": 1740067815.905,
+      "alias": [],
+      "description": "『Rewrite』本編では語られなかった物語がここに！\r\n星をめぐる運命に巻き込まれた主人公・天王寺瑚太朗。 しかし、彼が書き換えた運命はそれだけではなかった。\r\n人として彼が選んだものの先には、可能性の世界が無数に存在していた。\r\nそしてその中には、お祭り騒ぎのような未来さえも。\r\n\r\n緑化都市・風祭を舞台にした、各ヒロインにスポットを当てたシナリオを複数本収録。\r\nヒロインのその後を描いた物語、全く異なる可能性の物語など、恋愛からどたばたコメディまで、小鳥、ちはや、朱音、静流、ルチア、そして篝の新たな物語が紡ぎ出される。\r\n全てをオリジナルスタッフがそのまま手がけた、“収穫祭” の名のようにバラエティに富んだお祭り的スピンオフストーリー集。\r\nヒロインとの蜜月の日々、失われた楽しい日常、明かされなかった謎、Rewrite の世界をより深く楽しめるファンディスク！\r\n\r\n―――収穫の喜びを、君に。",
+      "tags": [
+        "已入实体",
+        "幼なじみ",
+        "小游戏",
+        "折戸伸治",
+        "PSV",
+        "游戏",
+        "田中罗密欧",
+        "水月陵",
+        "龙骑士07",
+        "治愈",
+        "ADV",
+        "麻枝准",
+        "樋上いたる",
+        "汉化",
+        "RPG",
+        "AVG",
+        "2012",
+        "全年龄",
+        "GAL",
+        "PC",
+        "都乃河勇人",
+        "罚抄",
+        "竜騎士07",
+        "胸部万岁",
+        "无节操FD",
+        "FD",
+        "rewrite",
+        "田中ロミオ",
+        "Galgame",
+        "key"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740067775939,
+      "releaseDate": 1343347200000,
+      "rating": 7.2,
+      "developer": "",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/14/34/23559_eNDsR.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/14/34/23559_eNDsR.jpg",
+      "title": "Rewrite Harvest festa!"
+    },
+    {
+      "id": "953739ed-18cc-4698-958d-2d4efde3e30a",
+      "vndbId": "v20424",
+      "bgmId": "295957",
+      "updateDate": 1740067826.986,
+      "alias": [
+        "Summer Pockets"
+      ],
+      "description": "主人公である鷹原羽依里は、亡くなった祖母の遺品整理のために夏休みを利用して1人で鳥白島にやってきた。\r\n\r\n1日数本しかない連絡船を下りたとき、1人の少女と出会う。\r\n彼女は潮風に髪を遊ばせながら、遠くを…海とも空とも言えない境界線をただ眺めていた。\r\n気がつけば少女はどこかへ行ってしまい、羽依里は狐に摘まれた気分になりながら、祖母宅へ向かう。\r\n\r\nそこではすでに親戚の叔母がいて、遺品整理を行っていた。\r\n羽依里は、祖母の思い出の品の片付けを手伝いながら、初めて触れる「島の生活」に戸惑いつつも、順応していく。\r\n\r\n都会暮らしでは知ることの無かった自然とのふれ合い。\r\n忘れていた懐かしい何かを、思い出させてくれるような、そんな生活だった。\r\n\r\n海を見つめる少女と出会った。\r\n不思議な蝶を探す少女と出会った。\r\n思い出と海賊船を探す少女と出会った。\r\n静かな灯台で暮らす少女と出会った。\r\n\r\n島で新しい仲間が出来た――\r\n\r\nこの夏休みが終わらなければいいのにと、そう思った。",
+      "tags": [
+        "Android",
+        "萝莉",
+        "泣系",
+        "剧情",
+        "折戸伸治",
+        "亲情",
+        "剧情作",
+        "神作",
+        "游戏",
+        "ハサマ",
+        "na-ga",
+        "AVG",
+        "治愈",
+        "汉化",
+        "魁",
+        "ADV",
+        "GAL",
+        "key社",
+        "和泉つばす",
+        "2020",
+        "新島夕",
+        "PC",
+        "纯爱",
+        "水月陵",
+        "新岛夕",
+        "催泪",
+        "全年龄",
+        "麻枝准",
+        "Galgame",
+        "key"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 52,
+      "lastPlay": 0,
+      "createDate": 1740067826986,
+      "releaseDate": 1593129600000,
+      "rating": 8.4,
+      "developer": "Key",
+      "images": [
+        "https://t.vndb.org/sf/74/111674.jpg",
+        "https://t.vndb.org/sf/75/111675.jpg",
+        "https://t.vndb.org/sf/76/111676.jpg",
+        "https://t.vndb.org/sf/77/111677.jpg",
+        "https://t.vndb.org/sf/54/127754.jpg",
+        "https://t.vndb.org/sf/55/127755.jpg",
+        "https://t.vndb.org/sf/56/127756.jpg",
+        "https://t.vndb.org/sf/57/127757.jpg",
+        "https://t.vndb.org/sf/65/176665.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Summer_Pockets",
+          "name": "enwiki"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/Summer_Pockets"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q28002085"
+        },
+        {
+          "url": "https://www.mobygames.com/game/summer-pockets",
+          "name": "mobygames"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/6285"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=64279"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/summer-pockets"
+        },
+        {
+          "url": "https://lutris.net/games/summer-pockets",
           "name": "lutris"
         }
       ],
-      "cover": "https://lain.bgm.tv/pic/cover/l/92/c4/310047_z6WnW.jpg",
-      "title": "Vampire: The Masquerade - Swansong"
+      "cover": "https://lain.bgm.tv/pic/cover/l/ab/76/295957_H64uh.jpg",
+      "title": "Summer Pockets REFLECTION BLUE"
+    },
+    {
+      "id": "43fd5112-224c-46ef-b553-ca3d381a9091",
+      "vndbId": "v7771",
+      "bgmId": "22290",
+      "updateDate": 1740067871.307,
+      "alias": [
+        "白色相簿2 终章",
+        "WHITE ALBUM2",
+        "白色相簿2"
+      ],
+      "description": "冷风吹得人发抖，歌声传入耳中——\r\n\r\n那首冻结于三年前的歌……\r\n曾回响在夕阳染红的校园里，在空无一人的食堂里，在静寂校舍的窗户边……\r\n于激情中萌发，在纯粹的思念里升华，最终却化作欺骗之歌消散而去。\r\n\r\n那个三人同行的冬天已经远去，一个人和一个人的冬天却周而复始。\r\n\r\n季节来到晚秋。\r\n那年羁绊断裂所造成的丑陋伤口还没干瘪，变化将至的预感却已然来临。\r\n两个寂寞的旋律相互吸引，互相伤害，而崭新旋律也将被唤来。\r\n\r\n新的冬天很快就会到来。\r\n没有那个人相伴的冬天，没有她的冬天。\r\n\r\n早已不知白色相册为何物。 因为，我已经不会再唱歌。\r\n早已不会再有无法传达的爱恋。 因为，我已经不会再爱上人。",
+      "tags": [
+        "白色相簿",
+        "浅川悠",
+        "小木曽雪菜",
+        "冬馬かずさ",
+        "Aquaplus",
+        "白色相簿2",
+        "白学",
+        "游戏",
+        "校园",
+        "胃疼",
+        "ADV",
+        "恋爱",
+        "汉化",
+        "R18",
+        "丸戸",
+        "丸户史明",
+        "2011",
+        "雪菜みたいな馬鹿、他に知らないよ",
+        "致郁死",
+        "AVG",
+        "GAL",
+        "PC",
+        "致郁",
+        "脱宅神作",
+        "神作",
+        "WA2",
+        "三角恋",
+        "leaf",
+        "Galgame",
+        "丸戸史明"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 76.1,
+      "lastPlay": 0,
+      "createDate": 1740067839430,
+      "releaseDate": 1324512000000,
+      "rating": 9,
+      "developer": "Leaf",
+      "images": [
+        "https://t.vndb.org/sf/75/26875.jpg",
+        "https://t.vndb.org/sf/75/181475.jpg",
+        "https://t.vndb.org/sf/76/181476.jpg",
+        "https://t.vndb.org/sf/77/181477.jpg",
+        "https://t.vndb.org/sf/78/181478.jpg",
+        "https://t.vndb.org/sf/79/181479.jpg",
+        "https://t.vndb.org/sf/80/181480.jpg",
+        "https://t.vndb.org/sf/81/181481.jpg",
+        "https://t.vndb.org/sf/82/181482.jpg",
+        "https://t.vndb.org/sf/83/181483.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/White_Album_2",
+          "name": "enwiki"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/WHITE_ALBUM2",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q5960516",
+          "name": "wikidata"
+        },
+        {
+          "name": "vgmdb_product",
+          "url": "https://vgmdb.net/product/2508"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/90/78/22290_1L2aJ.jpg",
+      "title": "WHITE ALBUM2 -closing chapter-"
+    },
+    {
+      "id": "09a47c5e-86ab-42d6-b808-bd4007e6a0fd",
+      "vndbId": "v16493",
+      "bgmId": "122158",
+      "updateDate": 1740067891.893,
+      "alias": [
+        "白色相簿2 mini After Story",
+        "WHITE ALBUM2 ミニアフターストーリー"
+      ],
+      "description": "Windows®用アドベンチャーゲーム『WHITE ALBUM2 ミニアフターストーリー』（丸戸史明書き下ろし）を応募者全員にプレゼントいたします。\r\n収録内容は下記の2本となり、ゲーム版のアフターストーリーをプレイできます。\r\n小木曽雪菜ミニアフターストーリー\r\n冬馬かずさミニアフターストーリー",
+      "tags": [
+        "脱宅神作",
+        "纯爱",
+        "糖",
+        "小木曽雪菜",
+        "冬马",
+        "2014-12",
+        "甜",
+        "白色相簿",
+        "治愈",
+        "日本",
+        "孩子不是亲生",
+        "恋爱",
+        "神作",
+        "ADV",
+        "三角恋",
+        "アクアプラス",
+        "全年龄",
+        "汉化",
+        "WA2",
+        "GAL",
+        "Aquaplus",
+        "AVG",
+        "2014",
+        "PC",
+        "丸户史明",
+        "白色相簿2",
+        "FD",
+        "丸戸史明",
+        "leaf",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 3.4,
+      "lastPlay": 0,
+      "createDate": 1740067891893,
+      "releaseDate": 1419379200000,
+      "rating": 7.5,
+      "developer": "Leaf",
+      "images": [
+        "https://t.vndb.org/sf/07/79707.jpg",
+        "https://t.vndb.org/sf/08/79708.jpg",
+        "https://t.vndb.org/sf/09/79709.jpg",
+        "https://t.vndb.org/sf/10/79710.jpg",
+        "https://t.vndb.org/sf/11/79711.jpg",
+        "https://t.vndb.org/sf/12/79712.jpg",
+        "https://t.vndb.org/sf/13/79713.jpg",
+        "https://t.vndb.org/sf/15/79715.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/39/6e/122158_VU66U.jpg",
+      "title": "WHITE ALBUM2 ミニアフターストーリー"
+    },
+    {
+      "id": "aa7a0c64-277c-4621-aa01-ee655e85871f",
+      "bgmId": "239906",
+      "updateDate": 1740067959.588,
+      "alias": [
+        "堕落皇家圣处女"
+      ],
+      "description": "聖女さまはあなたのメスに成り下がりたい。\r\n\r\n世界樹は枯れました。\r\n癒やしも奇跡もずっと前から幻想です。\r\n愛が、いつまでも満たされない愛が、\r\n清らかな少女を甘い堕落に誘います。\r\n傷ついた場所から垂れる蜜を吸って、\r\n白濁した最低の道徳を子宮に注いでください。\r\n\r\nわたしが願うことではなく、\r\nあなたの御心にかなうことが行われますように。\r\n\r\nつがいで甘堕ち純愛ADV。",
+      "tags": [
+        "ぎうにう",
+        "喜欢夜羊社的通通抓起来",
+        "机翻",
+        "2018年8月",
+        "2018-08",
+        "圣女",
+        "悪堕",
+        "拔系",
+        "不是萝莉",
+        "AVG",
+        "夜羊社",
+        "未下载",
+        "宗教",
+        "R18",
+        "porori",
+        "HGame",
+        "ADV",
+        "短篇",
+        "汉化",
+        "GAL",
+        "同人",
+        "PC",
+        "2018",
+        "萝莉",
+        "银发",
+        "纯爱",
+        "调教",
+        "Galgame",
+        "夜のひつじ",
+        "拔作"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740067917992,
+      "releaseDate": 1534032000000,
+      "rating": 5.8,
+      "developer": "夜のひつじ",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/63/14/239906_zr8xz.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/63/14/239906_zr8xz.jpg",
+      "title": "堕落ロイヤル聖処女"
+    },
+    {
+      "id": "f1fb1191-a307-478d-b8e7-b171b8aba408",
+      "bgmId": "296846",
+      "updateDate": 1740067996.435,
+      "alias": [],
+      "description": "サークル「夜のひつじ」コミックマーケット97新作が登場！\r\n\r\nだめな大人にわからせてあげる。\r\n\r\nでも――私たちもわかりたい。\r\n\r\n人が愛し合うために生きていること。\r\nいちばん奥で一緒になるよろこび。\r\n小さなおへその下であなたを待ってる。\r\n愛をください。愛をください。愛をください。\r\n\r\n■仕様\r\n・回想シーン枠15　基本CG18枚+差分多数\r\n・既読スキップや自動再生など基本的なシステムを完備\r\n※断面表現アリなので苦手な人は注意しくてださい\r\n\r\nコミックマーケット97発行",
+      "tags": [
+        "2020-01",
+        "游戏分类:ADV",
+        "打工",
+        "夜羊社",
+        "文字ADV",
+        "ぴよ寺むちゃ",
+        "Lolita",
+        "2019",
+        "铜系",
+        "うさ城まに",
+        "短篇",
+        "游戏",
+        "恋爱",
+        "哲学",
+        "幼女",
+        "ADV",
+        "GAL",
+        "R18",
+        "纯爱",
+        "2020",
+        "porori",
+        "同人",
+        "汉化",
+        "PC",
+        "治愈",
+        "实用",
+        "拔作",
+        "Galgame",
+        "萝莉",
+        "夜のひつじ"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740067974562,
+      "releaseDate": 1579219200000,
+      "rating": 6.5,
+      "developer": "",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/f6/8a/296846_ZiN18.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/f6/8a/296846_ZiN18.jpg",
+      "title": "誘惑なまいきロリータ"
+    },
+    {
+      "id": "83307407-5973-4c01-bd27-48b5a9770164",
+      "vndbId": "v22899",
+      "bgmId": "243475",
+      "updateDate": 1740068031.415,
+      "alias": [
+        "NUKITASHI",
+        "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？"
+      ],
+      "description": "青蓝岛──施行特殊条例的乐园岛屿。不过岛上依然存在着不愿遵守条例的人们。\r\n\r\n喜欢同性，除了哥哥以外无法接受异性的妹妹。\r\n时常被误会的辣妹同学。\r\n因为身材娇小，而被误认为未达条例年龄的前辈。\r\n以及对自己抱有强烈自卑感的少年。\r\n\r\n主角──橘淳之介与这样的少女们在暗中集结，\r\n组成了反对条例的秘密组织【NLNS】。\r\n\r\n提供他们秘密基地，并出钱赞助的【神秘老人】所提出的条件只有一个，\r\n就是「找出某位少女，并保护她」。\r\n──据说该名少女便是能够摧毁岛上的条例的关键。\r\n\r\n既然如此，要做的只有一件事──\r\n欺骗敌对组织，保护自己，并找出那名少女。\r\n然後──摧毁可恶的条例！！",
+      "tags": [
+        "妹",
+        "热血",
+        "STEAM",
+        "歩サラ",
+        "纯爱",
+        "骨折王子",
+        "AVG",
+        "剧情作",
+        "战斗",
+        "游戏",
+        "萝莉",
+        "燃",
+        "搞笑",
+        "沢野ぽぷら",
+        "ADV",
+        "倉骨治人",
+        "汉化",
+        "拔岛",
+        "拔作",
+        "R18",
+        "GAL",
+        "PC",
+        "剧情",
+        "2018",
+        "硬核(笑)",
+        "欢乐",
+        "披着拔作外衣的剧情作",
+        "拔作(笑)",
+        "Qruppo",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 41,
+      "lastPlay": 0,
+      "createDate": 1740068018779,
+      "releaseDate": 1532649600000,
+      "rating": 7.5,
+      "developer": "Qruppo",
+      "images": [
+        "https://t.vndb.org/sf/70/115070.jpg",
+        "https://t.vndb.org/sf/73/115073.jpg",
+        "https://t.vndb.org/sf/75/115075.jpg",
+        "https://t.vndb.org/sf/26/166526.jpg",
+        "https://t.vndb.org/sf/27/166527.jpg",
+        "https://t.vndb.org/sf/28/166528.jpg",
+        "https://t.vndb.org/sf/29/166529.jpg",
+        "https://t.vndb.org/sf/37/181337.jpg",
+        "https://t.vndb.org/sf/88/181388.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nukitashi",
+          "name": "enwiki"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか%3f",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q65269040",
+          "name": "wikidata"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/237573-"
+        },
+        {
+          "url": "https://www.animecharactersdatabase.com/source.php?id=105909",
+          "name": "acdb_source"
+        },
+        {
+          "url": "http://howlongtobeat.com/game.php?id=130628",
+          "name": "howlongtobeat"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/nukitashi"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Nukitashi"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/nukitashi"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/95/90/243475_q93n2.jpg",
+      "title": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？"
+    },
+    {
+      "id": "45d9055c-edcd-4a21-853b-723fd9aa3046",
+      "vndbId": "v7302",
+      "bgmId": "19002",
+      "updateDate": 1740068046.57,
+      "alias": [
+        "初雪樱",
+        "Hatsuyuki Sakura: White Graduation",
+        "はつゆきさくら",
+        "하츠유키 사쿠라",
+        "初雪櫻"
+      ],
+      "description": "ウサギと少女に出会った不思議な冬物語\r\n河野初雪は、白咲学園3年生。 進学校には珍しい不良学生。\r\n卒業が危ないと言われ、今日もイヤイヤ授業に顔を出す。\r\n\r\n今年最初の雪が降った12月。\r\n初雪は旧市街の一画で、真っ白なドレスを着た美しい少女に出会う。\r\n雪に降られながら、少女は一匹のウサギを探して街をさまよっていた。\r\n\r\n一夜の不思議な出会い。\r\n\r\nそして数日後。 学園にドレスの少女・桜 が転校してくる。\r\n最後の冬へ、初雪を連れて行くために。\r\n\r\nめぐる春夏秋冬。　終わる1095日。\r\nやがて冬を越えて、春が訪れる頃。\r\nついに積もることのなかった雪の思い出を抱いて、少年は立ち尽くす。\r\n\r\n初雪から桜まで 卒業おめでとう",
+      "tags": [
+        "桐谷華",
+        "R18",
+        "游戏",
+        "SAGA",
+        "清水爱",
+        "AVG",
+        "毕业",
+        "初雪绫",
+        "ADV",
+        "致郁",
+        "治愈系",
+        "佐本二厘",
+        "桐谷华",
+        "2012",
+        "新島夕",
+        "汉化",
+        "校园",
+        "PC",
+        "GAL",
+        "fripside",
+        "水月陵",
+        "虐心",
+        "纯爱",
+        "治愈",
+        "初雪樱",
+        "毕业作",
+        "暖人心田",
+        "SAGAPLANETS",
+        "Galgame",
+        "新岛夕"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 28.4,
+      "lastPlay": 0,
+      "createDate": 1740068046570,
+      "releaseDate": 1330041600000,
+      "rating": 7.6,
+      "developer": "SAGA PLANETS",
+      "images": [
+        "https://t.vndb.org/sf/05/27005.jpg",
+        "https://t.vndb.org/sf/08/27008.jpg",
+        "https://t.vndb.org/sf/59/29459.jpg",
+        "https://t.vndb.org/sf/60/29460.jpg",
+        "https://t.vndb.org/sf/61/29461.jpg",
+        "https://t.vndb.org/sf/62/29462.jpg",
+        "https://t.vndb.org/sf/63/29463.jpg",
+        "https://t.vndb.org/sf/64/29464.jpg",
+        "https://t.vndb.org/sf/65/29465.jpg",
+        "https://t.vndb.org/sf/66/29466.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Hatsuyuki_Sakura"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/はつゆきさくら"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q167003"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/652316-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/hatsuyuki-sakura"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/f1/78/19002_nO49l.jpg",
+      "title": "はつゆきさくら"
+    },
+    {
+      "id": "80c2d9bd-ceea-4b73-b304-4616004d28b5",
+      "bgmId": "132573",
+      "updateDate": 1740068057.52,
+      "alias": [
+        "与我相恋的废柴恶魔"
+      ],
+      "description": "俺は未曾有の貞操の危機に陥っていた。\r\n\r\n「お願い……！　後生だから……私に、おちんちんを触らせてっ……！」\r\n　必死に俺のズボンを下ろそうとしている幼なじみによって。\r\n\r\n「年頃のサキュバスなのにねんねちゃんなんて、恥ずかしくてお嫁にいけないし……！」\r\n　どうも生まれた時からの幼なじみはヒトではなかったらしい。\r\n\r\n――突然に押し込まれることになった学園の特設寮。\r\nそこは見るも見事、聞くも見事な “ポンコツアクマ” たちを集めた女子寮だった。\r\n\r\n「7月とは言ってもまだまだ冷える。 ぬくもりのお裾分けもらう。ぎゅ」\r\n　ふにっふにのクラスメイトは極度の寒がりな雪女。\r\n\r\n「動物っていいですよね？　お洋服、着なくて許されるんですから。 はぁぁ～」\r\n　窮屈なのが苦手で開放感を愛するまじめな後輩ミイラっ子。\r\n\r\n「ひとつ屋根の下で暮らしてても、お兄ちゃんがイタしてる最中のラッキースケベもないし」\r\n　フリーダムで全然慎ましくないブラコン駄天使。\r\n\r\n「ものすごい精力増強剤が作れたら、どれだけの人が幸せになるか考えたことはないのかい？」\r\n　エロい新薬開発に情熱を燃やす魔女先輩。\r\n\r\nポンコツな魔族たちの更生を目的として用意された学生寮。\r\nそこへ手違いで入寮してしまった俺は、寮監の仕事を手伝うアシスタントとして置いてもらえることになった。\r\n\r\n「じゃ、じゃあさ……？　蓮くんが、その、先生なら……。\r\n　わたしたちの先生役も、蓮くんがしてくれるってことだよね……？」\r\n\r\nこうして、この可愛くもどうしようもないポンコツアクマたちとの、健全なオトコのコとして幸せで困る日々が始まったのだった――",
+      "tags": [
+        "黄油",
+        "官中",
+        "さより",
+        "萝莉",
+        "R18",
+        "歩サラ",
+        "幼驯染",
+        "2015-09",
+        "岡本理絵",
+        "欢乐",
+        "雪仁",
+        "僕と恋するポンコツアクマ",
+        "STEAM",
+        "纯爱",
+        "SA姐",
+        "ADV",
+        "GAL",
+        "PC",
+        "汉化",
+        "废萌",
+        "后宫",
+        "妹",
+        "2015",
+        "实用",
+        "萌拔",
+        "sayori",
+        "スミレ",
+        "动态CG",
+        "Galgame",
+        "拔作"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740068057520,
+      "releaseDate": 1443139200000,
+      "rating": 6.2,
+      "developer": "",
+      "images": [],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/cc/99/132573_6F641.jpg",
+      "title": "僕と恋するポンコツアクマ。"
+    },
+    {
+      "id": "775f4ad8-21d3-4005-85a1-16dfe449cd3c",
+      "bgmId": "163874",
+      "updateDate": 1740068093.66,
+      "alias": [
+        "与我相恋的废柴恶魔：一期一会"
+      ],
+      "description": "恋人になって頭がフットー！　歯止めが利かないラブ乱舞ヘンタイ後日譚!!\r\n本作がお届けするのは、主人公と結ばれて一層いろんな意味でダメになったヒロインたちとのラブエロな毎日！\r\nより過激になるプレイの数々が、さよりさんの手で赤裸々に、蠱惑的に、とにかくエッチに描かれることにッ!!\r\nついにウサ…もといトラ娘・凛、おもらし先生・タマちゃん、エロママ学園長・怜香さんも攻略対象に。\r\nそして待望のハーレムルートも搭載されて、果たして主人公は枯れ果てずに生き延びることはできるのか !?",
+      "tags": [
+        "sayori",
+        "萌拔",
+        "2016年",
+        "ボサラ",
+        "小倉結衣",
+        "岡本理絵",
+        "废萌",
+        "僕と恋するポンコツアクマ",
+        "桜咲千依",
+        "萝莉",
+        "欢乐",
+        "萌",
+        "2016-05",
+        "歩サラ",
+        "母女丼",
+        "R18",
+        "ADV",
+        "2016年5月",
+        "GAL",
+        "汉化",
+        "PC",
+        "2016",
+        "快餐游戏",
+        "后宫",
+        "妹",
+        "スミレ",
+        "FD",
+        "动态CG",
+        "Galgame",
+        "拔作"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740068063396,
+      "releaseDate": 1464307200000,
+      "rating": 6.1,
+      "developer": "スミレ",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/e5/c9/163874_lSI7Q.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/e5/c9/163874_lSI7Q.jpg",
+      "title": "僕と恋するポンコツアクマ。すっごいえっち！"
+    },
+    {
+      "id": "8457309f-db80-4c8c-b9e2-ded4da782510",
+      "vndbId": "v38037",
+      "bgmId": "398107",
+      "updateDate": 1740068116.243,
+      "alias": [
+        "废村少女 ～妖异魅惑的笼之乡～",
+        "廃村少女 ～妖し惑ひの籠の郷～"
+      ],
+      "description": "小さな町に伝わる、隠れ里の伝説。 \r\n自分たちが暮らす町に残る古い伝承を調べるため、 \r\n主人公・八雲一樹やくも いつきは、部活仲間の少女たちと、噂の山に足を踏み入れる。 \r\nそれはどこにでもある、青春の一ページ的な小旅行……の、はずだった。\r\n\r\n「……ここは、どこだ？」\r\n\r\n気がつくと、一樹たちは見知らぬ場所にいた。 \r\n薄霧の中に建つ朽ちた家屋。時が止まったように澱んだ空気。 \r\n自分たち以外に人の気配はないが、あちこちに暮らしの痕跡が残っている。 \r\nそこは人々に捨てられた、山奥の小さな廃村……伝説の隠れ里『姫香村ひめよしむら』。\r\n\r\nいったいどうやってたどり着いたのか誰も覚えておらず、 \r\nさらには村から出ようとしても、霧にまかれていつの間にか戻ってきてしまう。 \r\n自分たちが得体の知れない『何か』に閉じ込められている気配を感じつつ、 \r\n出られる時を信じて、一樹たちは村でのサバイバル生活を始める。\r\n\r\nしかしその日から、一樹は村の中で淫らな行為に耽る少女たちの姿を見るようになる。 \r\n蕩けるような甘い香りが満ちる廃村に響く、見知った少女の濡れた嬌声。\r\n\r\n一樹もまた、彼女たちを犯す淫夢を見て、自分の中に黒いものが染み込むような感覚を覚える。\r\n\r\n「ここは“かごのさと”。\r\n主様は迎えられた客人にございますれば……\r\n\r\nどうか、よく考えてお選びください」\r\n\r\n異変に戸惑う一樹の前に現れた少女、籠女かごめ。 \r\n彼女は、村から出るには一人、人柱となって残る者を選ばなければならないと言う。 \r\n仲間の犠牲など受け入れられない一樹は、脱出の手がかりを求めて、廃村を調べていく。 \r\n一樹たちの運命は、淫らな力の支配する廃村からの脱出か、それとも……？\r\n\r\nその郷さとは、悦びに溢れる楽園か、\r\n情と欲に縛られた牢獄か――――\r\n",
+      "tags": [
+        "佑りん",
+        "剧情拔",
+        "あおいあいう",
+        "蒼瀬",
+        "萝莉",
+        "百合",
+        "ちょびぺろ",
+        "足",
+        "白毛",
+        "实用",
+        "后宫",
+        "纯爱",
+        "生肉",
+        "汉化",
+        "足交",
+        "纯爱？",
+        "游戏",
+        "伝奇",
+        "ADV",
+        "GAL",
+        "妹",
+        "R18",
+        "PC",
+        "2022",
+        "御苑生メイ",
+        "悬疑",
+        "民俗",
+        "Escu:de",
+        "拔作",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 19.4,
+      "lastPlay": 0,
+      "createDate": 1740068104182,
+      "releaseDate": 1671753600000,
+      "rating": 6.8,
+      "developer": "Escu:de",
+      "images": [
+        "https://t.vndb.org/sf/10/186910.jpg",
+        "https://t.vndb.org/sf/11/186911.jpg",
+        "https://t.vndb.org/sf/12/186912.jpg",
+        "https://t.vndb.org/sf/13/186913.jpg",
+        "https://t.vndb.org/sf/14/186914.jpg",
+        "https://t.vndb.org/sf/15/186915.jpg",
+        "https://t.vndb.org/sf/16/186916.jpg",
+        "https://t.vndb.org/sf/17/186917.jpg",
+        "https://t.vndb.org/sf/18/186918.jpg",
+        "https://t.vndb.org/sf/19/186919.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/91/dc/398107_5KUw5.jpg",
+      "title": "廃村少女 ～妖し惑ひの籠の郷～"
+    },
+    {
+      "id": "c2297595-64a1-4c2d-9b39-13d8dfe58ed9",
+      "vndbId": "v24",
+      "bgmId": "364956",
+      "updateDate": 1740068135.622,
+      "alias": [
+        "海猫鸣泣之时 蒸",
+        "Umineko When They Cry - Question Arcs",
+        "うみねこのなく頃に",
+        "Когда плачут чайки",
+        "海猫鸣泣之时"
+      ],
+      "description": "Umineko no Naku Koro ni Musu takes place in the year 1996 during a short period of time on April 14th in Skinner's home within a residential neighborhood. The principal of Springfield Elementary School named Seymour Skinner, who lives on and owns his own home in the aforementioned peaceful neighbourhood, has invited Superintendent Chalmers to his home, to enjoy a home-cooked meal of his making. After Superintendent Chalmers arrives, something goes amiss, and things don't go according to plan. Will Seymour be able to salvage this meal as well as Chalmers's perception of him?",
+      "tags": [
+        "GAL",
+        "同人"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 75.8,
+      "lastPlay": 0,
+      "createDate": 1740068135622,
+      "releaseDate": 1540944000000,
+      "rating": 0,
+      "developer": "07th Expansion",
+      "images": [
+        "https://t.vndb.org/sf/58/2658.jpg",
+        "https://t.vndb.org/sf/60/2660.jpg",
+        "https://t.vndb.org/sf/03/118303.jpg",
+        "https://t.vndb.org/sf/53/118553.jpg",
+        "https://t.vndb.org/sf/74/118674.jpg",
+        "https://t.vndb.org/sf/82/118682.jpg",
+        "https://t.vndb.org/sf/00/119300.jpg",
+        "https://t.vndb.org/sf/02/119302.jpg",
+        "https://t.vndb.org/sf/49/208649.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q104089071"
+        },
+        {
+          "url": "https://www.mobygames.com/game/umineko-when-they-cry-question-arcs",
+          "name": "mobygames"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/971618-"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/190731-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/190708-"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/605944-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "url": "https://vgmdb.net/product/9918",
+          "name": "vgmdb_product"
+        },
+        {
+          "url": "https://vgmdb.net/product/3032",
+          "name": "vgmdb_product"
+        },
+        {
+          "name": "acdb_source",
+          "url": "https://www.animecharactersdatabase.com/source.php?id=100466"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=62461"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/umineko-when-they-cry"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/09/26/364956_ibPv0.jpg",
+      "title": "Umineko no Naku Koro ni Musu"
     }
   ]
 }
