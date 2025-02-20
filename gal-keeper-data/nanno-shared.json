@@ -1,4 +1,1257 @@
 {
-  "deleteIds": [],
-  "data": []
+  "deleteIds": [
+    "31fb953e-6c41-49e4-ac8b-4bc666952580",
+    "bf01a62c-c1e2-4044-97c8-cbd2ce8a86a5",
+    "3b0a25a6-3308-4e74-8d42-b3b6d083c7db",
+    "eefce51b-4e10-4871-9c2f-0adbf5cd4570",
+    "a9ac6fb0-da60-45d8-b8e9-417db4dac14a"
+  ],
+  "data": [
+    {
+      "id": "4c3b4ed0-372d-4773-b23b-fe8d4f25ba70",
+      "bgmId": "2721",
+      "updateDate": 1740066503.624,
+      "alias": [
+        "狂欢节"
+      ],
+      "description": "受到前辈的志村咏美和三沢两人欺负的主人公木村学从前就有着一遇到讨厌的事便会选择性遗忘的怪癖。如同往常一般被三沢给叫到屋顶的主人公、在那里出现的是抗议并保护学被欺负的青梅竹马理紗的身影。被说得怒从心头起的三沢横暴的拉扯起理紗的瞬间、学的记忆于此中断了。\r\n等回过神来时、脖子被割倒在血泊之中的三沢、以及衣衫凌乱失去知觉的理紗出现在了眼前。因为失神没了那段记忆的原因、在询问供述中只能暧昧应答的学被当做头号嫌疑犯给逮捕了。\r\n\r\n可是、押送自己的警车在途中出了事故、慌不择路的学趁机逃了出来。可就算这样逃得了一时也逃不过一世。\r\n「那至少在被抓住之前、至少把这款手帕还给理紗吧」\r\n那是中学时代、在看到因欺凌受伤的学后少女递给他的。一直没能找到机会还、便当做了护身符一般的宝物随身带着。下定决心的学、潜藏在公园里就在此时理紗却意外出现在了自己眼前。并向无家可归的自己提议不如先到她家去如何。就这样学听从了理紗的意见一同朝着她家走去。\r\n\r\n自己落得如今这副悲惨的模样全都是因为自己被欺负了的原因、那么结论只有一个如若想要改变就只能舍弃掉那个逆来顺受的懦弱自己学如此下定决心。誓要成为更为强大更加有能之人。\r\n而为了成为这样的自己所迈出的第一步便是对曾经欺负过自己的咏美的复仇。偶然间、发现了青梅竹马的理紗身上那遭受了暴行侵犯的痕迹。学最后得出的结论无论怎么想犯人都是咏美不会有错、怨上加怨仇上加仇的学下定了决心开始到街道上搜寻起咏美的身影来。",
+      "tags": [
+        "虐心",
+        "氛围",
+        "剧情",
+        "哲学",
+        "狂気",
+        "电波",
+        "游戏",
+        "短篇",
+        "濑户口廉也",
+        "桑島由一",
+        "凌辱",
+        "幼驯染",
+        "川原誠",
+        "AVG",
+        "致郁",
+        "乙女向你妹啊",
+        "气氛",
+        "ADV",
+        "R18",
+        "汉化",
+        "2004",
+        "S.M.L",
+        "PC",
+        "GAL",
+        "烂户口",
+        "OP欺诈",
+        "FlyingShine",
+        "狂气",
+        "Galgame",
+        "瀬戸口廉也"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740066483935,
+      "releaseDate": 1084492800000,
+      "rating": 7.5,
+      "developer": "FlyingShine",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/36/23/2721_UWDqF.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/36/23/2721_UWDqF.jpg",
+      "title": "CARNIVAL"
+    },
+    {
+      "id": "e5a92dc7-4743-49c6-a43e-cd8ec379c2fc",
+      "vndbId": "v14018",
+      "bgmId": "88765",
+      "updateDate": 1740066518.374,
+      "alias": [
+        "混沌子",
+        "CHAOS;CHILD",
+        "混沌之子"
+      ],
+      "description": "　2009年11月6日。\r\n　渋谷区でM7.8の局地的な地震が発生。\r\n　渋谷駅周辺の市街地は壊滅状態となり、最終的な死者は3851人に達した。\r\n\r\n　そして、2015年。\r\n\r\n　物語は復興後の渋谷から始まる——",
+      "tags": [
+        "成长",
+        "志仓千代丸",
+        "汉化几时有",
+        "阿保剛",
+        "科幻",
+        "推理",
+        "致郁",
+        "科学ADV",
+        "林直孝",
+        "STEAM",
+        "PS4",
+        "汉化",
+        "Nitro+",
+        "神作",
+        "PSV",
+        "全年龄",
+        "2014",
+        "GAL",
+        "ADV",
+        "PC",
+        "5pb",
+        "AVG",
+        "梅原英司",
+        "科学ADV系列最完成作",
+        "猎奇",
+        "悬疑",
+        "志倉千代丸",
+        "Galgame",
+        "科学妄想ADV",
+        "5pb."
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 56.4,
+      "lastPlay": 0,
+      "createDate": 1740066518374,
+      "releaseDate": 1418860800000,
+      "rating": 8.4,
+      "developer": "NITRO PLUS",
+      "images": [
+        "https://t.vndb.org/sf/38/133438.jpg",
+        "https://t.vndb.org/sf/43/133443.jpg",
+        "https://t.vndb.org/sf/64/134364.jpg",
+        "https://t.vndb.org/sf/66/134366.jpg",
+        "https://t.vndb.org/sf/69/134369.jpg",
+        "https://t.vndb.org/sf/70/134370.jpg",
+        "https://t.vndb.org/sf/65/177765.jpg",
+        "https://t.vndb.org/sf/09/178409.jpg",
+        "https://t.vndb.org/sf/10/178410.jpg",
+        "https://t.vndb.org/sf/11/178411.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chaos;Child",
+          "name": "enwiki"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/CHAOS;CHILD",
+          "name": "jawiki"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17131050"
+        },
+        {
+          "url": "https://www.mobygames.com/game/chaoschild",
+          "name": "mobygames"
+        },
+        {
+          "url": "https://www.mobygames.com/game/chaoschild-gigalomaniac-edition",
+          "name": "mobygames"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/144561-"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/144566-"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/144564-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/802047-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=48590"
+        },
+        {
+          "url": "https://www.igdb.com/games/chaos-child",
+          "name": "igdb_game"
+        },
+        {
+          "url": "https://www.pcgamingwiki.com/wiki/Chaos;Child",
+          "name": "pcgamingwiki"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/chaoschild"
+        },
+        {
+          "url": "https://appdb.winehq.org/appview.php?iAppId=8860",
+          "name": "wine"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/67/94/88765_QF7GZ.jpg",
+      "title": "CHAOS;CHILD"
+    },
+    {
+      "id": "78d1ef25-04cb-42e4-b503-43d620b7caa6",
+      "vndbId": "v13325",
+      "bgmId": "82389",
+      "updateDate": 1740066532.86,
+      "alias": [
+        "幸运草的约定",
+        "Clover Day's",
+        "幸運草的約定"
+      ],
+      "description": "那是，一个隐藏的思念\r\n那是，一个永远的誓言\r\n那是，一个衷心的愿望\r\n那是，一个难释的后悔\r\n\r\n以及，幼时的约定——\r\n\r\n幼时被父母抛弃，在英国孤儿院被抚养大的男主角優人成为了商人鷹倉義臣的养子，来到日本。\r\n在这，双胞胎义妹，开朗而害羞的杏鈴和冷酷而能干的杏璃支撑着连日语都还说不好的優人。\r\n还有初等部的同学，淳朴而体贴的燕，以及爱面子不坦率的泉。\r\n\r\n连恋爱都还尚未知晓的少年少女就这么笑着哭着，编织着难以替代的羁绊。\r\n\r\n就这样，10年过去了——街道的景色已今非昔比，優人他们也和幼时不再相同。\r\n但是，依然有维持不变的东西。\r\n\r\n“你还记得……那天的约定么？”\r\n\r\n十年前搬家前往海外的另一对双胞胎，也是優人的青梅竹马。\r\n碧瑠和光瑠再出出现在了優人面前，一直停止的思念也开始再次转动起来。\r\n\r\n丰富多彩的日子“Clover Day's”从此开始――",
+      "tags": [
+        "又吉爱",
+        "义妹",
+        "萌作",
+        "R18",
+        "治愈",
+        "瀬尾順",
+        "又吉愛",
+        "遠野そよぎ",
+        "仁村有志",
+        "ADV",
+        "石原舞",
+        "桐谷華",
+        "纯爱",
+        "幼驯染",
+        "貌似佳作",
+        "2014",
+        "十周年",
+        "PC",
+        "GAL",
+        "汉化",
+        "输在起跑线系列",
+        "妹！",
+        "妹",
+        "萝莉",
+        "妹控",
+        "双子",
+        "废萌",
+        "桐谷华",
+        "alcot",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 42.7,
+      "lastPlay": 0,
+      "createDate": 1740066532860,
+      "releaseDate": 1395964800000,
+      "rating": 7.3,
+      "developer": "ALcot",
+      "images": [
+        "https://t.vndb.org/sf/45/67245.jpg",
+        "https://t.vndb.org/sf/46/67246.jpg",
+        "https://t.vndb.org/sf/47/67247.jpg",
+        "https://t.vndb.org/sf/48/67248.jpg",
+        "https://t.vndb.org/sf/49/67249.jpg",
+        "https://t.vndb.org/sf/27/71127.jpg",
+        "https://t.vndb.org/sf/28/71128.jpg",
+        "https://t.vndb.org/sf/29/71129.jpg",
+        "https://t.vndb.org/sf/30/71130.jpg",
+        "https://t.vndb.org/sf/31/71131.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/Clover_Day's",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q16886865",
+          "name": "wikidata"
+        },
+        {
+          "url": "http://howlongtobeat.com/game.php?id=131154",
+          "name": "howlongtobeat"
+        },
+        {
+          "url": "https://www.igdb.com/games/clover-days-plus",
+          "name": "igdb_game"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/clover-days-plus"
+        },
+        {
+          "url": "https://appdb.winehq.org/appview.php?iAppId=16099",
+          "name": "wine"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/47/b5/82389_Oo6vF.jpg",
+      "title": "Clover Day's"
+    },
+    {
+      "id": "2f09a918-b9ac-4b30-a789-b4ae1c28a90f",
+      "vndbId": "v66",
+      "bgmId": "2720",
+      "updateDate": 1740066546.931,
+      "alias": [
+        "CROSS†CHANNEL"
+      ],
+      "description": "大家一起度过的去年夏天……\r\n面临分裂的广播部所引起的各种矛盾……以及和解……\r\n\r\n学院的漫长暑假。七零八落的广播部的众人的状况也都十分萎靡不振。夏初集训归来之后，团队的凝聚力早已荡然无存。如今还在坚持参加社团活动的，也只剩下一人了。\r\n\r\n主人公正是广播部的一员。\r\n因夏休而变得空旷的校园里，主人公四处漫步，寻觅着零星的友人。\r\n来到了屋顶上就会看到部长宮澄見里在架设大型的广播天线。独自一个人。\r\n这就是广播部的暑期课题，架设完成后就可以进行无线电广播了。之前都是大家齐心协力的。去年暑假也是如此。\r\n而如今，却只剩下部长一人了。\r\n昔日的友人们，如今却冷眼旁观着二人。随之而来的还有各种各样的冲突。以及和解。\r\n\r\n四分五裂的部员们的心，在慢慢地贴近……\r\n\r\n―――在暑假的最后一天，信号发射装置完工了。\r\n　　　　　　　　　　　装置将信息发送到了世界各处―――",
+      "tags": [
+        "黄油",
+        "VN",
+        "校园",
+        "治愈",
+        "游戏",
+        "PSP",
+        "悬疑",
+        "松竜",
+        "神作",
+        "R18",
+        "轮回",
+        "汉化",
+        "ADV",
+        "电波",
+        "日语白学",
+        "大破碎写法",
+        "2003",
+        "AVG",
+        "PC",
+        "GAL",
+        "loop",
+        "狂气",
+        "FlyingShine",
+        "c+c",
+        "哲学",
+        "田中罗密欧",
+        "致郁",
+        "孤独",
+        "Galgame",
+        "田中ロミオ"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 30.1,
+      "lastPlay": 0,
+      "createDate": 1740066546931,
+      "releaseDate": 1064534400000,
+      "rating": 8.5,
+      "developer": "FlyingShine",
+      "images": [
+        "https://t.vndb.org/sf/14/914.jpg",
+        "https://t.vndb.org/sf/15/915.jpg",
+        "https://t.vndb.org/sf/16/916.jpg",
+        "https://t.vndb.org/sf/16/3016.jpg",
+        "https://t.vndb.org/sf/17/3017.jpg",
+        "https://t.vndb.org/sf/34/3034.jpg",
+        "https://t.vndb.org/sf/35/3035.jpg",
+        "https://t.vndb.org/sf/36/3036.jpg",
+        "https://t.vndb.org/sf/66/70066.jpg",
+        "https://t.vndb.org/sf/91/86091.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cross_Channel_(video_game)",
+          "name": "enwiki"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/CROSS†CHANNEL",
+          "name": "jawiki"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q898066"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/crosschannel-steam-edition"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=2044"
+        },
+        {
+          "url": "https://www.igdb.com/games/cross-channel",
+          "name": "igdb_game"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Cross_Channel"
+        },
+        {
+          "url": "https://lutris.net/games/cross-channel",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/fa/2e/2720_d7mZj.jpg",
+      "title": "CROSS†CHANNEL"
+    },
+    {
+      "id": "624659a2-022f-4d9f-8e36-aadb0967dffb",
+      "vndbId": "v17",
+      "bgmId": "38979",
+      "updateDate": 1740066555.358,
+      "alias": [
+        "Ever17 Remake",
+        "Ever17 -out of infinity-",
+        "Ever17 -the out of infinity-",
+        "时空轮回",
+        "時光的羈絆"
+      ],
+      "description": "2011年12月1日、5pb.とサイバーフロントの共同開発として、Xbox 360が発売。新規シナリオおよびエンディングを追加、舞台デザインのリニューアル、キャラクターの3D化、イベントCGの追加など、多数の新要素を追加している。\r\n\r\n西暦2017年5月1日。様々な法律の改正や技術の発展が行われた近未来の日本。\r\n様々な人々が祝日の予定に思いを巡らせる中で、必ず口端に登る施設があった。海洋テーマパーク、《LeMU（レミュウ）》。かつて存在したかも知れぬと夢見られる「レムリア大陸」の名を冠したその施設は、遊園地を丸ごと海の中に沈めるという斬新なテーマパークであった。海中をゴンドラで泳ぎ、視界を覆いつくすほどの魚を見上げながら散歩する。それはまさに現代によみがえった夢の大陸であった。そのLeMUに時同じくして足を運んだ、1人の青年と1人の少年がいた。珍しい観光施設を、しかしろくに楽しめないまま2人の時間は慌しく過ぎ去っていく。\r\n突如、楽しげな歓声を切り裂くようにして耳を劈くような緊急避難警報が響き渡る。折り悪く、施設から逃げそこなった1人の青年と1人の少年。視界には誰も居らず、静まり返るテーマパークに不気味な咆哮が響き渡る。怒涛のごとく襲い掛かる鉄砲水。浸水を防ぐため自分達ごと閉じ込めようとする防水隔壁。何とか一命をとりとめ脱出経路を探すうちに、同じ境遇にある生存者達を発見する。閉じ込められた生存者は、6人。\r\n地上に直通した第一階層は完全浸水しており、脱出用の通路や非常階段やエレベータも通行不可能。外部への通信も全く通じず、ただ助けを待つことしか出来なくなってしまった。しかし空気も食料も幾ばくかは余裕があり、当分は生存が可能ではある。LeMUの完全圧壊予想時間は今より5日後、5月7日午前4時30分前後。\r\n脱出の目処がまったく立たないものの、即座に自らの命が脅かされる状況でもない。焦燥と弛緩の上で不安定に揺さぶられつつも、LeMUから生きて脱出するために6人の生存者達は協力して生き残る覚悟と連帯感を固めるのだった。",
+      "tags": [
+        "infinity-重制",
+        "out",
+        "中泽工",
+        "替代",
+        "上古超神作重制",
+        "重复版本",
+        "3D",
+        "Surface",
+        "科幻",
+        "2011",
+        "NS",
+        "CyberFront",
+        "ADV",
+        "游戏",
+        "全年龄",
+        "视点",
+        "PC",
+        "悬疑",
+        "诡计",
+        "infinity",
+        "Ever17",
+        "Xbox360",
+        "Xbox",
+        "GAL",
+        "志倉千代丸",
+        "AVG",
+        "重制",
+        "5pb.",
+        "KID",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 35,
+      "lastPlay": 0,
+      "createDate": 1740066555358,
+      "releaseDate": 1322697600000,
+      "rating": 8.7,
+      "developer": "KID",
+      "images": [
+        "https://t.vndb.org/sf/90/190.jpg",
+        "https://t.vndb.org/sf/91/191.jpg",
+        "https://t.vndb.org/sf/31/231.jpg",
+        "https://t.vndb.org/sf/33/233.jpg",
+        "https://t.vndb.org/sf/34/234.jpg",
+        "https://t.vndb.org/sf/35/235.jpg",
+        "https://t.vndb.org/sf/73/273.jpg",
+        "https://t.vndb.org/sf/74/274.jpg",
+        "https://t.vndb.org/sf/75/275.jpg",
+        "https://t.vndb.org/sf/19/419.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Ever_17:_The_Out_of_Infinity"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/Ever17_-the_out_of_infinity-"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q954766",
+          "name": "wikidata"
+        },
+        {
+          "url": "https://www.mobygames.com/game/ever17-the-out-of-infinity",
+          "name": "mobygames"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/931349-"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/563076-"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/582206-"
+        },
+        {
+          "url": "http://howlongtobeat.com/game.php?id=3217",
+          "name": "howlongtobeat"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Ever_17:_The_Out_of_Infinity"
+        },
+        {
+          "url": "https://appdb.winehq.org/appview.php?iAppId=6763",
+          "name": "wine"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/f9/d2/38979_om0Mt.jpg",
+      "title": "Ever17"
+    },
+    {
+      "id": "548261fe-b1bd-43ba-99f3-6074fe63cc13",
+      "vndbId": "v22313",
+      "bgmId": "233030",
+      "updateDate": 1740066566.24,
+      "alias": [
+        "樱花、萌放。-as the Night's, Reincarnation-",
+        "さくら、もゆ。-as the Night's, Reincarnation-",
+        "벚꽃, 싹트다. -As the Night's, Reincarnation-",
+        "樱花萌放-as the Night's, Reincarnation-"
+      ],
+      "description": "      ——这是一个为了「魔法少女」的故事。\r\n      在很久以前，\r\n      有几个女孩——「魔法少女」们拯救了人类的未来。\r\n      那是一场极为惨烈的战役。\r\n      大家伤痕累累。\r\n      大家落下眼泪。\r\n      不管是谁都不停地祈祷著。\r\n      那里发生着仿若理所应当的“战斗的故事”。\r\n\r\n      但是……\r\n      就算受伤、就算落泪、就算是祈祷了，\r\n      少女们没有被任何人感谢，少女们没有被任何人赞扬，\r\n      ……甚至，谁也不知道有少女们的存在。\r\n      不过即使如此，这场战役还是顺利地结束了。\r\n    「守护人类未来的故事」以最好的快乐结局划下句点，\r\n      直到了约十年后的今天。\r\n\r\n      ……春天。\r\n      一个樱花盛开，象征相遇与离别的季节。\r\n      以前曾经拯救过人类未来的少女们已经忘了「魔法」，过得和一般少女没有两样的生活。\r\n      她们也像其他人一样会遭遇困难，在困难之前抱头苦思、迷惘、探寻活下去的道路。\r\n      就在那样的日子，\r\n      樱花花瓣飞舞飘落的春日。\r\n\r\n    「……求求你。」\r\n      少年，奏大雅，和另一个春再度相遇了。           \r\n    「求求你。请你再让我变回魔法少女吧！」\r\n      这不是一个述说「魔法少女」的故事。\r\n      这是一个为了找出幸福的方法的故事。\r\n      这是一个，为了你的人生的故事。\r\n\r\n      在这个樱花萌放的夜......\r\n      不会再让你感受到悲伤——\r\n\r\n      来吧，扣下扳机吧！\r\n      为了救下你一个人。\r\n      我就算是，\r\n      就算是会就此凋零消散，也会一直一直这样做下去……\r\n\r\n\r\n――これは“魔法少女”のための物語だ。\r\n遠い昔。\r\n幾人かの特別な女の子たち――“魔法少女”が人類の未来を救ったという。\r\nその闘いは熾烈を極めた。\r\n誰もが傷つき。　誰もが泣いて。　誰もが祈った。\r\nごく当たり前にすぎる“戦いの物語”がそこにはあった。\r\n\r\nしかし……。\r\n\r\n傷つき。　泣いて。　祈っても。\r\n\r\n少女らは誰に感謝されることもなく。\r\n誰に賞賛されることもなく。\r\n……誰に、知られることもなく。\r\n\r\nそれでも“戦い”は、無事に終わった。\r\n“人類の未来を守るための物語”を、これ以上ないハッピーエンドに導いた。\r\nそしてそれからおよそ十年後の現在。\r\n\r\n……春。\r\n\r\nさくら咲き乱れる出会いと別れのその季節。\r\nかつて人類の未来を救った少女たちは、今はもう“魔法”を忘れごくふつうの少女として生きていた。\r\n誰もが当たり前に遭遇する、ごくごくふつうの当たり前な困難に、頭を抱え、迷い、生きる道を探してた。\r\nそんなある日。\r\nさくら舞い散る、春の中。\r\n\r\n「……お願いします」\r\n\r\n少年、奏大雅は、もうひとつの春と再び出会った。\r\n「お願いします。どうか私を、魔法少女に戻してください」\r\nこれは“魔法少女”のための物語……。\r\nなんかでは、ない。\r\n\r\nこれは、幸せを探し出すための物語。\r\nこれは、あなたの人生のための、物語。\r\n\r\nさくらもゆ“夜”の中……。\r\n\r\nもう二度と、君が悲しまなくてもいいように\r\nさあ、引き金を引け。\r\nたったひとりの君を救うため。\r\n\r\n俺は。\r\n\r\n俺は何度だって、散りゆくのだと――……",
+      "tags": [
+        "R18",
+        "2018",
+        "剧情",
+        "AVG",
+        "游戏",
+        "等汉化",
+        "幼驯染",
+        "纯爱",
+        "夏和小",
+        "治愈",
+        "神作",
+        "ADV",
+        "催泪",
+        "萝莉",
+        "童话",
+        "汉化",
+        "幼なじみ",
+        "艹猫",
+        "GAL",
+        "2019",
+        "忍",
+        "PC",
+        "魔法少女",
+        "马猴烧酒",
+        "幼女",
+        "司田カズヒロ",
+        "F社",
+        "漆原雪人",
+        "Galgame",
+        "FAVORITE"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 60.7,
+      "lastPlay": 0,
+      "createDate": 1740066566240,
+      "releaseDate": 1548892800000,
+      "rating": 8.3,
+      "developer": "FAVORITE",
+      "images": [
+        "https://t.vndb.org/sf/32/121232.jpg",
+        "https://t.vndb.org/sf/33/121233.jpg",
+        "https://t.vndb.org/sf/34/121234.jpg",
+        "https://t.vndb.org/sf/35/121235.jpg",
+        "https://t.vndb.org/sf/36/121236.jpg",
+        "https://t.vndb.org/sf/37/121237.jpg",
+        "https://t.vndb.org/sf/38/121238.jpg",
+        "https://t.vndb.org/sf/39/148839.jpg",
+        "https://t.vndb.org/sf/40/148840.jpg",
+        "https://t.vndb.org/sf/71/206171.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/さくら、もゆ。-as_the_Night's,_Reincarnation-"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q54932232"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/-/235806-",
+          "name": "gamefaqs_game"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/sakura-moyu-dot-as-the-nights-reincarnation"
+        },
+        {
+          "url": "https://lutris.net/games/sakura-moyu-dot-as-the-nights-reincarnation",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/16/3a/233030_422zH.jpg",
+      "title": "さくら、もゆ。-as the Night's, Reincarnation-"
+    },
+    {
+      "id": "04fff4c3-4088-4466-b5ac-4edb065abd8a",
+      "vndbId": "v5834",
+      "bgmId": "14435",
+      "updateDate": 1740066642.692,
+      "alias": [
+        "五彩斑斓的世界",
+        "Irotoridori No Sekai - The Colorful World",
+        "いろとりどりのセカイ",
+        "형형색색의 세계"
+      ],
+      "description": "与红瞳少女邂逅之时，世界将沉浸于温柔魔法之中——\r\n\r\n故事发生在风车林立的宁静港口小镇風津ヶ浜。\r\n少年少女们就在小镇里过着平凡无奇的每一天。\r\n然而，学校宿舍的古旧挂钟其实是连接奇幻世界的入口，也是冒险和恋爱的起始之地。\r\n\r\n从天而降的女仆、傲娇的青梅竹马、成天宅在宿舍的天然女、不畏贫苦的活力少女……\r\n就此与个性迥异的少女们去孕育恋爱，创造只属于二人的世界吧。\r\n\r\n赋予主人公神奇魔法的“半透明的魔法使”究竟是何方神圣？这份爱恋之情又将何去何从呢？\r\n『星空のメモリア』、『ウィズ アニバーサリィー』的制作公司FAVORITE将为您送上，这奇幻的学园恋爱ADV！\r\n \r\n \r\n故事情节\r\n主人公鹿野上悠馬（かのうえ ゆうま）是魔法使——\r\n不管对方身负多么严重的伤痛，他都能将之治愈，前提是牺牲自身存在的时间（回忆）。\r\n\r\n边远的港口小镇風津ヶ浜（かざつがはま）有一座不可思议的学生宿舍，名为嵐山（あらしやま）荘。\r\n之所以说它不可思议，只因宿舍的地下室连接着缤纷的异世界。\r\n\r\n置身于这小小的不可思议之中，少年依旧安稳地度过如梦似幻的每一天——\r\n“魔法师的少女已经赋予我魔力，那就和她一起去找寻梦存在的地方以及逝去之物吧”\r\n“难免傲娇的青梅竹马也体贴入微地照顾闷居家中的我了”\r\n“跟住在二楼的吊儿郎当大姐头去环游奇幻世界也不赖”\r\n\r\n就在这一成不变的岁月中，却有这么一天——\r\n绯红满月照亮世界的夜晚，一个少女从天而降。\r\n\r\n「魔法使先生，求求你，请你帮帮我吧」\r\n\r\n随之转动的，是我们那曾经一成不变的日子。\r\n清爽海风拂面而过，白色羽翼纷飞飘落……\r\n\r\n我们紧紧牵着彼此的手抬头仰望，向着天空立下誓言，我们定能再度相恋……\r\n",
+      "tags": [
+        "游戏",
+        "童话",
+        "福圓美里",
+        "AVG",
+        "剧情作",
+        "奇幻",
+        "幼馴染",
+        "二阶堂真红",
+        "剧情",
+        "治愈",
+        "忍",
+        "R18",
+        "萝莉",
+        "纯爱",
+        "福圆美里",
+        "ADV",
+        "真红",
+        "汉化",
+        "2011",
+        "背景设定深邃无比",
+        "GAL",
+        "澤田なつ",
+        "PC",
+        "杏子御津",
+        "いろとりどりのセカイ",
+        "司田カズヒロ",
+        "漆原雪人",
+        "色鸟鸟",
+        "Galgame",
+        "FAVORITE"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 44.2,
+      "lastPlay": 0,
+      "createDate": 1740066580410,
+      "releaseDate": 1311897600000,
+      "rating": 7.5,
+      "developer": "FAVORITE",
+      "images": [
+        "https://t.vndb.org/sf/86/21886.jpg",
+        "https://t.vndb.org/sf/87/21887.jpg",
+        "https://t.vndb.org/sf/91/21891.jpg",
+        "https://t.vndb.org/sf/92/21892.jpg",
+        "https://t.vndb.org/sf/93/21893.jpg",
+        "https://t.vndb.org/sf/05/192405.jpg",
+        "https://t.vndb.org/sf/61/193661.jpg",
+        "https://t.vndb.org/sf/69/193669.jpg",
+        "https://t.vndb.org/sf/71/193671.jpg",
+        "https://t.vndb.org/sf/72/193672.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/いろとりどりのセカイ",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q6238440",
+          "name": "wikidata"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=150466"
+        },
+        {
+          "url": "https://www.igdb.com/games/irotoridori-no-sekai-the-colorful-world",
+          "name": "igdb_game"
+        },
+        {
+          "url": "https://lutris.net/games/irotoridori-no-sekai-the-colorful-world",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/d1/69/14435_nNaw3.jpg",
+      "title": "いろとりどりのセカイ"
+    },
+    {
+      "id": "523b0ec1-f2e6-4ec3-bbe0-f2757798bbcb",
+      "bgmId": "37755",
+      "updateDate": 1740066668.965,
+      "alias": [
+        "五彩斑斓的曙光"
+      ],
+      "description": "世界は終わり、僕は新しい夢を見る。\r\n二階堂真紅。僕のいちばん、大好きな人。\r\n新しい世界と、小さなアパートの部屋で、僕らは二人暮らしを始めた。\r\n恋することを知り、願いを叶えて・・・手と手を取り合い。\r\n\r\n幸せだった。\r\nなれないことにドギマギしたり。\r\nなかなか伝えられない想いに、あくせくしたり。\r\nどうしてこんなにも思いどうりにならないのか・・・と少し落ち込んでみたりもするけれど。\r\nだからこそ。もっともっと、お互いを好きになる。\r\n\r\n大切な人たちと、何より愛しい君と―笑顔でいられる。\r\n\r\nそんな時間が、そんな世界が。\r\nいつまでも、どこまでも、続いていくものだと、僕は信じていた。\r\nだからこそ誓うんだ。\r\nもう二度と、君のこの手を離さない・・・。\r\n\r\nそうしてもう一度だけ、二人で見上げたあの空に、願おう。\r\nぼくらの声が届限りの、すべての君が・・・いつまでも幸せで、ありますように。",
+      "tags": [
+        "奇幻",
+        "門脇舞以",
+        "剧情作",
+        "福圓美里",
+        "澤田なつ",
+        "纯爱",
+        "治愈",
+        "萝莉",
+        "忍",
+        "AVG",
+        "二阶堂真红",
+        "剧情",
+        "R18",
+        "ADV",
+        "汉化",
+        "萌え",
+        "FD",
+        "2012",
+        "PC",
+        "司田カズヒロ",
+        "いろとりどりのヒカリ",
+        "GAL",
+        "漆原雪人",
+        "福圆美里",
+        "二阶堂真红是本命",
+        "史上最强FD",
+        "真红",
+        "光鸟鸟",
+        "Galgame",
+        "FAVORITE"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740066587276,
+      "releaseDate": 1346371200000,
+      "rating": 7.8,
+      "developer": "FAVORITE",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/d9/10/37755_61x6c.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/d9/10/37755_61x6c.jpg",
+      "title": "いろとりどりのヒカリ"
+    },
+    {
+      "id": "348ba615-60cb-4e41-8743-6af6bcfcd9c3",
+      "bgmId": "130211",
+      "updateDate": 1740066694.741,
+      "alias": [
+        "你朱眸里的五彩世界"
+      ],
+      "description": "――海を見ている。\r\n\r\n鹿野上悠馬と二階堂真紅、そしてふたりのかわいい宝物・二階堂青空は\r\nほんの一時、学生寮・嵐山荘に身を寄せることとなった。\r\n\r\n時を同じくして、ひとつ屋根の下に集まる懐かしい顔ぶれたち。\r\nそしてさらに、明るく騒がしい新たな顔も加わって……。\r\nぼくらはひとつの季節を共に過ごすこととなる。\r\n\r\nようやく手にしたごくごくふつうの毎日が、いくつもの笑顔と一緒に、眩しいくらいにきらきら輝く。\r\n\r\n嬉しくて。　楽しくて。　何だか、幸せ。\r\nそうして重ねた想いと時間は、いつまでも繋いで歩いたぼくらの手と手の間に、そっと、消えずに重なり続けて行くものだと、信じてる――\r\n\r\n海を、見ていた。\r\n遠く。 近く。　引いては返す波の音。\r\n鳴り止まない世界の音に、心を合わせ……。\r\n\r\n見上げた夜空が、一番暗く沈んだそんな時こそ。\r\n夜は必ずいつか明けるものだと、ぼくらは、信じた。\r\n\r\n魔法の終わりは、新しいミライの始まり。\r\nその笑顔がいつまでもヒカリ輝く、セカイでありますように―\r\n\r\n真紅といっしょに幸せを願うファンディスク、ついに登場です！！",
+      "tags": [
+        "2015-07",
+        "昏睡日常",
+        "剧情",
+        "二阶堂真红",
+        "实体已入",
+        "なつめえり",
+        "游戏",
+        "幼女",
+        "福圓美里",
+        "真红",
+        "治愈",
+        "忍",
+        "萝莉",
+        "纯爱",
+        "R18",
+        "eufonius",
+        "ADV",
+        "司田カズヒロ",
+        "GAL",
+        "汉化",
+        "2015",
+        "PC",
+        "福圆美里",
+        "紅い瞳に映るセカイ",
+        "FD",
+        "红鸟鸟",
+        "真红大法好",
+        "漆原雪人",
+        "Galgame",
+        "FAVORITE"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740066610287,
+      "releaseDate": 1437696000000,
+      "rating": 7,
+      "developer": "FAVORITE",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/19/e6/130211_NNW7h.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/19/e6/130211_NNW7h.jpg",
+      "title": "紅い瞳に映るセカイ"
+    },
+    {
+      "id": "5948c6d2-30d4-4eac-84e6-0a7338483d2e",
+      "vndbId": "v12984",
+      "bgmId": "78544",
+      "updateDate": 1740066712.826,
+      "alias": [
+        "星辰恋曲的白色永恒",
+        "アストラエアの白き永遠"
+      ],
+      "description": "月ヶ咲には二年間、春が訪れていない。\r\n\r\n四季に関わらず、雪は降り続いていた。\r\nゆらゆらと舞い散る白い結晶。\r\nだがその雪は、決して積もることがない。\r\nそれは優しい雪だろうか。\r\nそれとも悲しい雪だろうか。\r\n\r\n積もらない雪のほかにも、突発的な竜巻、落雷、川の増水などの異常気象が街では続いている。\r\n組織の命で、謎の異常気象から二人の少女を守ることになった主人公──榛名陸。\r\n彼はエルフィンと呼ばれる存在で、ルーンという不思議な力を操ることが出来るため、\r\n学生の身でありながら人命救助といった仕事を続けていた。\r\n\r\n訪れた街は、過去にも住んでいた月ヶ咲。\r\n雪のように真っ白な出で立ちの彼女と、雪合戦をしたり雪だるまを作ったりと遊んでいた。\r\nだが、懐かしいと思う間もなく事件は続く。\r\n陸は仲間たちと共に、そんな日々を駆け抜ける。\r\n\r\n月ヶ咲の雪空の下。\r\nもう溶けて見えなくなった、雪道の足跡を探して。\r\nきっとこの先に、彼女が待つのだと信じて。\r\n\r\n今日もまた、春の訪れを予感しながら、冬の想い出を見上げている。",
+      "tags": [
+        "游戏",
+        "剧情作",
+        "剧情",
+        "童话",
+        "废萌",
+        "種﨑敦美",
+        "ADV",
+        "实妹",
+        "高森奈津美",
+        "桐谷華",
+        "小鸟居夕花",
+        "冬",
+        "治愈",
+        "忍",
+        "保住圭",
+        "纯爱",
+        "雪女",
+        "都合展开",
+        "2014",
+        "なかひろ",
+        "PC",
+        "妹",
+        "FD才是正篇系列",
+        "GAL",
+        "汉化",
+        "桐谷华",
+        "萝莉",
+        "司田カズヒロ",
+        "Galgame",
+        "FAVORITE"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 62.1,
+      "lastPlay": 0,
+      "createDate": 1740066712826,
+      "releaseDate": 1406246400000,
+      "rating": 7.2,
+      "developer": "FAVORITE",
+      "images": [
+        "https://t.vndb.org/sf/09/150209.jpg",
+        "https://t.vndb.org/sf/10/150210.jpg",
+        "https://t.vndb.org/sf/11/150211.jpg",
+        "https://t.vndb.org/sf/12/150212.jpg",
+        "https://t.vndb.org/sf/13/150213.jpg",
+        "https://t.vndb.org/sf/14/150214.jpg",
+        "https://t.vndb.org/sf/15/150215.jpg",
+        "https://t.vndb.org/sf/16/150216.jpg",
+        "https://t.vndb.org/sf/17/150217.jpg",
+        "https://t.vndb.org/sf/18/150218.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/アストラエアの白き永遠"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q17988388"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/e2/ea/78544_66wEP.jpg",
+      "title": "アストラエアの白き永遠"
+    },
+    {
+      "id": "a10ee1e8-f936-4dbb-9ae9-fb0f92464f84",
+      "vndbId": "v19294",
+      "bgmId": "179995",
+      "updateDate": 1740066721.597,
+      "alias": [
+        "星辰恋曲的白色永恒 白色星之梦",
+        "アストラエアの白き永遠 Finale -白き星の夢-",
+        "星辰恋曲的白色永恒 Finale"
+      ],
+      "description": "月ヶ咲は、3年目の冬に入った。\r\n四季に関わらず、雪は降り続いていた。\r\nゆらゆらと舞い散る白い結晶。 そしてその雪は、積もることがないはずだった。\r\n今ではもう、街を一面の銀世界に変えている。\r\n雪の結晶に、一つとして同じものがないように、\r\n雪道の足跡にも、うり二つのものはない。\r\nたとえ後ろを振り返ったとしても、足跡は容易く溶けてしまうから、同じ道はたどれない。\r\nまるで光のように、この時間という道は不可逆だ。\r\nだけど、ユグドラシルの枝が、根元から見上げることで同時に観測できるように、\r\n新たな道、新たな可能性を拓くことはできるだろう。\r\n人間と妖精は、いくつもの雪道から、真に望むハッピーエンドを選び取らなければならない。\r\nさあ、永遠の証となる雪の結晶ゆきのかけらを探す旅に出よう────",
+      "tags": [
+        "卯衣",
+        "2016",
+        "剧情作",
+        "種﨑敦美",
+        "雪雪",
+        "未确定",
+        "桐谷華",
+        "保住圭",
+        "GAL",
+        "实妹",
+        "姐",
+        "奇幻",
+        "忍",
+        "ADV",
+        "萝莉",
+        "2016年",
+        "妹",
+        "汉化",
+        "2017",
+        "なかひろ",
+        "PC",
+        "司田カズヒロ",
+        "姉ゲー",
+        "治愈",
+        "纯爱",
+        "星辰恋曲的白色永恒",
+        "幸姐",
+        "FD",
+        "Galgame",
+        "FAVORITE"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 14.5,
+      "lastPlay": 0,
+      "createDate": 1740066721597,
+      "releaseDate": 1485475200000,
+      "rating": 7.1,
+      "developer": "FAVORITE",
+      "images": [
+        "https://t.vndb.org/sf/22/101322.jpg",
+        "https://t.vndb.org/sf/23/101323.jpg",
+        "https://t.vndb.org/sf/24/101324.jpg",
+        "https://t.vndb.org/sf/26/101326.jpg",
+        "https://t.vndb.org/sf/27/101327.jpg",
+        "https://t.vndb.org/sf/28/101328.jpg",
+        "https://t.vndb.org/sf/29/101329.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/87/01/179995_y2SEz.jpg",
+      "title": "アストラエアの白き永遠 Finale-白き星の夢-"
+    },
+    {
+      "id": "e7398b11-eee2-4fb4-a2dc-4591a9572b41",
+      "bgmId": "3651",
+      "updateDate": 1740066754.582,
+      "alias": [
+        "星空的记忆 永恒之心"
+      ],
+      "description": "仿如这片星空的永恒的光辉一样。\r\n一直没有改变的、约定的故事──\r\n\r\nFAVORITE 2009年发售的人气作品>『星空のメモリア－Wish upon a shooting star－』的FANDISK终于出现了！\r\n收录了讲述“メア”与“乙津夢（おとつ ゆめ）”之后的故事、各自用正篇女角路线差不多分量的番后篇2篇、以及明日歩和こももたち等人恩爱甜蜜全展开的短篇故事！ ",
+      "tags": [
+        "門脇舞以",
+        "忍",
+        "2010年",
+        "游戏",
+        "治愈",
+        "校园",
+        "幼驯染",
+        "梅娅",
+        "乙津夢姐姐",
+        "遠野そよぎ",
+        "妹",
+        "萝莉",
+        "萌え",
+        "ADV",
+        "杏子御津",
+        "司田カズヒロ",
+        "纯爱",
+        "なかひろ",
+        "汉化",
+        "2010",
+        "GAL",
+        "星空のメモリアEH",
+        "PC",
+        "梅娅赛高",
+        "乙津梦",
+        "乙津夢姐姐，嫁给我吧~",
+        "FD",
+        "星空のメモリア",
+        "Galgame",
+        "FAVORITE"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740066733527,
+      "releaseDate": 1264723200000,
+      "rating": 7.6,
+      "developer": "FAVORITE",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/c2/03/3651_fZOdf.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/c2/03/3651_fZOdf.jpg",
+      "title": "星空のメモリア Eternal Heart"
+    },
+    {
+      "id": "6855745c-e825-4cd8-a676-9d630b04a85e",
+      "vndbId": "v22020",
+      "bgmId": "255334",
+      "updateDate": 1740066794.28,
+      "alias": [
+        "NEKOPARA Extra 小猫之日的约定",
+        "NEKOPARA Extra",
+        "ネコぱらExtra  仔ネコの日の約束",
+        "猫娘乐园Extra 小猫之日的约定",
+        "貓娘樂園Extra 貓咪之日的約定"
+      ],
+      "description": "嘉祥が店長を務めるネコたちが働くパティスリー『ラ・ソレイユ』開店の約半年前。\r\n仔ネコのショコラとバニラは水無月家に来たばかりで、他のネコたちともまだ打ち解けてない頃。\r\n嘉祥をご主人様と呼ぶようになって、初めてのクリスマスを迎えた二匹が嘉祥とひとつの約束を交わす。\r\nネコぱらOVAのクラウドファンディング、ストレッチゴール達成感謝のエクストラエピソード！\r\n【 注意：全年齢作品です 】",
+      "tags": [
+        "2018年",
+        "文字游戏",
+        "能冲就行",
+        "成瀬未亜",
+        "2018年7月",
+        "连续系列作",
+        "启蒙＆入坑",
+        "重工业",
+        "ヒマリ",
+        "nekowork",
+        "官方繁体中文",
+        "短篇",
+        "ADV",
+        "兽耳",
+        "兽娘",
+        "萝莉",
+        "猫娘",
+        "冲着小猫来的，结果全年龄，上当了",
+        "nekopara",
+        "sayori",
+        "汉化",
+        "2018",
+        "STEAM",
+        "GAL",
+        "PC",
+        "废萌",
+        "NEKOWORKs",
+        "全年龄",
+        "艹猫",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 2,
+      "lastPlay": 0,
+      "createDate": 1740066794280,
+      "releaseDate": 1532563200000,
+      "rating": 5.9,
+      "developer": "NEKO WORKs",
+      "images": [
+        "https://t.vndb.org/sf/96/114696.jpg",
+        "https://t.vndb.org/sf/97/114697.jpg",
+        "https://t.vndb.org/sf/98/114698.jpg",
+        "https://t.vndb.org/sf/99/114699.jpg",
+        "https://t.vndb.org/sf/00/114700.jpg",
+        "https://t.vndb.org/sf/62/115262.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q66604892"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/nekopara-extra"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=59460"
+        },
+        {
+          "url": "https://www.igdb.com/games/nekopara-extra",
+          "name": "igdb_game"
+        },
+        {
+          "url": "https://www.pcgamingwiki.com/wiki/NEKOPARA_Extra",
+          "name": "pcgamingwiki"
+        },
+        {
+          "url": "https://lutris.net/games/nekopara-extra",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/91/33/255334_USUzp.jpg",
+      "title": "ネコぱら Extra 仔ネコの日の約束"
+    },
+    {
+      "id": "9f778138-a051-4453-8055-5f0bceaf1ed2",
+      "vndbId": "v10922",
+      "bgmId": "107596",
+      "updateDate": 1740066897.285,
+      "alias": [
+        "ねこぱら ～ねこそぎ・ぱらダイス～"
+      ],
+      "description": "水无月嘉祥离开了老家——一家传统老字号的日式点心店，\r\n以西式糕点师的身份开了一家名为『La Soleil』的蛋糕店。\r\n\r\n然而，从老家寄来的行李中，混进了两只在老家养过的人型猫咪——巧克力和香草。\r\n准备送猫娘回去的嘉祥经不住她们的一再哀求，\r\n决定带着两只猫娘开始Soleil的经营。\r\n\r\n为了最喜欢的主人，\r\n两只猫娘经历无数挫折仍在拼命努力的\r\n暖心人猫喜剧，正式上演！",
+      "tags": [
+        "繁体中文版",
+        "NEKO_WORKs",
+        "KOMEWORKS",
+        "nekopara",
+        "兽耳",
+        "纯爱",
+        "ADV",
+        "R18",
+        "黄油",
+        "猫奴福利（？）",
+        "国人",
+        "汉化",
+        "后宫",
+        "AVG",
+        "废萌",
+        "动态CG",
+        "さより",
+        "萌",
+        "2014",
+        "NEKOWORKs",
+        "GAL",
+        "STEAM",
+        "巧克力香子兰",
+        "艹猫狂魔",
+        "艹猫",
+        "PC",
+        "sayori",
+        "拔作",
+        "猫娘",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740066824644,
+      "releaseDate": 1419897600000,
+      "rating": 6.1,
+      "developer": "Mink",
+      "images": [
+        "https://t.vndb.org/sf/55/189755.jpg",
+        "https://t.vndb.org/sf/56/189756.jpg",
+        "https://t.vndb.org/sf/57/189757.jpg",
+        "https://t.vndb.org/sf/58/189758.jpg",
+        "https://t.vndb.org/sf/59/189759.jpg",
+        "https://t.vndb.org/sf/61/189761.jpg",
+        "https://t.vndb.org/sf/63/189763.jpg",
+        "https://t.vndb.org/sf/64/189764.jpg",
+        "https://t.vndb.org/sf/65/189765.jpg",
+        "https://t.vndb.org/sf/66/189766.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/ad/c9/107596_R55UH.jpg",
+      "title": "ネコぱら vol.1 ソレイユ開店しました！"
+    },
+    {
+      "id": "000123b3-1bda-4c62-8a05-cdb3577d225f",
+      "vndbId": "v18713",
+      "bgmId": "163324",
+      "updateDate": 1740066915.562,
+      "alias": [
+        "NEKOPARA Vol. 2",
+        "ネコぱら vol.2 姉妹ネコのシュクレ",
+        "猫娘乐园 Vol.2",
+        "貓娘樂園 Vol.2"
+      ],
+      "description": "サークル「NEKO WORKs」が贈る待望の「ネコぱら vol.2」の登場です！\r\n水無月嘉祥（みなづきかしょう）の経営するパティスリー『ソレイユ』は、\r\n水無月家の4姉妹ネコ＋妹の時雨と一緒に今日も絶賛営業中。\r\n\r\n口が悪く素直じゃないけども、実は器用で面倒見の良い長女アズキと\r\n実直で一生懸命だけども、不器用で背伸びしがちな4女ネコココナツ。\r\n昔は誰よりも仲の良かった姉妹ネコだけども、いつの間にか飽きずに小競り合いを繰り返している2匹。\r\nお互いを思いやりつつも、小さなすれ違いからアズキとココナツの仲に事件が起きてしまう。\r\n\r\n色んな経験を通じて成長していく姉妹ネコと家族の絆を描く、ちょっとHでハートフルなネココメディ、今日も開店！",
+      "tags": [
+        "萌拔",
+        "R-18",
+        "萌作",
+        "艹猫狂魔",
+        "分割商法",
+        "纯爱",
+        "nekopara",
+        "R18",
+        "黄油",
+        "萌",
+        "ADV",
+        "さより",
+        "抓好社会主义精神文明建设",
+        "vol.2",
+        "废萌",
+        "汉化",
+        "猫奴福利",
+        "2016",
+        "兽耳",
+        "动态CG",
+        "GAL",
+        "后宫",
+        "NEKOWORKs",
+        "猫娘",
+        "STEAM",
+        "拔作",
+        "PC",
+        "sayori",
+        "艹猫",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 5.2,
+      "lastPlay": 0,
+      "createDate": 1740066915562,
+      "releaseDate": 1455926400000,
+      "rating": 6,
+      "developer": "NEKO WORKs",
+      "images": [
+        "https://t.vndb.org/sf/91/92791.jpg",
+        "https://t.vndb.org/sf/92/92792.jpg",
+        "https://t.vndb.org/sf/93/92793.jpg",
+        "https://t.vndb.org/sf/94/92794.jpg",
+        "https://t.vndb.org/sf/95/92795.jpg",
+        "https://t.vndb.org/sf/96/92796.jpg",
+        "https://t.vndb.org/sf/97/92797.jpg",
+        "https://t.vndb.org/sf/25/108625.jpg",
+        "https://t.vndb.org/sf/26/108626.jpg",
+        "https://t.vndb.org/sf/27/108627.jpg"
+      ],
+      "links": [
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q66536925"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/nekopara-vol-2"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=34806"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/nekopara-vol-2"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/NEKOPARA_Vol._2"
+        },
+        {
+          "url": "https://lutris.net/games/nekopara-vol-2",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/15/f4/163324_hs6SZ.jpg",
+      "title": "ネコぱら vol.2 姉妹ネコのシュクレ"
+    },
+    {
+      "id": "eea00862-d7e3-4391-9b97-5cb272eb30b3",
+      "bgmId": "194573",
+      "updateDate": 1740066954.411,
+      "alias": [],
+      "description": "サークル「NEKO WORKs」が贈る「ネコぱら」の最新作の登場です！\r\n水無月嘉祥（みなづきかしょう）の経営するパティスリー「ソレイユ」は、恋ネコも増えて今日も絶賛営業中。\r\nプライドが高くて高飛車なオシャレネコの次女メイプルと、妄想家でひとり暴走しがちな3女ネコのシナモン。\r\n姉妹の中でも仲の良い友人関係のような2匹が、ちょっとしたきっかけで夢を持つことに悩むメイプルと、\r\n親友の力になりたいのにどうしていいか分からないシナモンが、\r\n\r\nふたりの夢に向かって成長していく姉妹ネコと家族の絆を描く、ちょっとHでハートフルなネココメディ今日もまた開店！\r\n",
+      "tags": [
+        "さより",
+        "萌",
+        "短篇",
+        "分割商法",
+        "萝莉",
+        "萌作",
+        "全通",
+        "黄油",
+        "AVG",
+        "R18",
+        "纯爱",
+        "nekopara",
+        "兽耳",
+        "ADV",
+        "自带中文",
+        "汉化",
+        "ネコぱら",
+        "废萌",
+        "2017",
+        "后宫",
+        "猫娘",
+        "GAL",
+        "sayori",
+        "PC",
+        "动态CG",
+        "STEAM",
+        "NEKOWORKs",
+        "拔作",
+        "艹猫",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1740066928811,
+      "releaseDate": 1495756800000,
+      "rating": 6.1,
+      "developer": "NEKO WORKs",
+      "images": [
+        "https://lain.bgm.tv/pic/cover/l/d7/76/194573_96M9t.jpg"
+      ],
+      "links": [],
+      "cover": "https://lain.bgm.tv/pic/cover/l/d7/76/194573_96M9t.jpg",
+      "title": "ネコぱら vol.3 ネコたちのアロマティゼ"
+    }
+  ]
 }
