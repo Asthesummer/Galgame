@@ -9858,9 +9858,15 @@
         "Galgame",
         "柚子社"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1740071090,
+          1740071114,
+          14
+        ]
+      ],
       "expectedPlayHours": 16,
-      "lastPlay": 0,
+      "lastPlay": 1740071114000,
       "createDate": 1740070627624,
       "releaseDate": 1211500800000,
       "rating": 7.3,
